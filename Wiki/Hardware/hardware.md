@@ -7,28 +7,28 @@ tags:
 Hardware refers to the physical components of a [[computer]]. Hardware can contain [[software]] and most of the time needs [[software]] to run. 
 
 ## Common hardware components
-There are lots of types of hardware. Here are the most common types of hardware.
+There are lots of types of hardware. Here are the most common types of [[hardware]].
 ### Main computer components
 - [[CPU]]
 - [[RAM]]
 - [[storage]]
 - [[IO]]
-- [[network card]]
+- [[Network card]]
 - [[GPU]]
 
 ### Input devices
-- [[keyboard]]
-- [[mouse]]
-- [[touchpad]]
-- [[touchscreen]]
-- [[button]]
-- [[microphone]]
-- [[scanner]]
-- [[camera]]
-- [[webcam]]
+- [[Keyboard]]
+- [[Mouse]]
+- [[Touchpad]]
+- [[Touchscreen]]
+- [[Button]]
+- [[Microphone]]
+- [[Scanner]]
+- [[Camera]]
+- [[Webcam]]
 ### Output devices
-- [[display]]
-- [[speakers]]
-- [[haptic]]
-- [[printer]]
-- [[light]]
+- [[Display]]
+- [[Speakers]]
+- [[Haptic]]
+- [[Printer]]
+- [[Light]]
