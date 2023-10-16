@@ -1,5 +1,5 @@
 ---
-authors: Lewis Evans
+authors: Lewis Evans, David Wood
 tags:
   - Computing
   - Software
@@ -12,3 +12,4 @@ A program is a set of instructions that is run on a computer. A program is writt
 
 Computer programs allow the computer to perform tasks and store them on the computers [[memory]] and run them later.
 
+Programs have [[user interface]] this allows the user to interact with the program.
