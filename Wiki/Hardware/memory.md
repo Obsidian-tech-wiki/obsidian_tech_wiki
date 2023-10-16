@@ -24,6 +24,9 @@ There are several types of devices when it comes to storage devices:
 - [[Tape]]
 - [[Optical]]
 
+___
+#### See also
+- [[RAM]]
 #### References
 - [Wikipedia](https://en.wikipedia.org/wiki/Computer_memory(Wikipedia)
 - [Britanica](https://www.britannica.com/technology/computer-memory)

@@ -6,20 +6,7 @@ tags:
 When editing this wiki you need to follow these rules so the wiki is consistent. 
 
 ## The filename
-Each page in the wiki should be lowercase so it is easier when typing and linking pages. The file name shouldn't be too long can can be capitalised when the whole word is a capital.
-
-### Examples of lower case
-- computer
-- hard disk
-- malware
-- linux
-- macos
-### Examples of uppercase files
-- RAM
-- CPU
-- NOT
-- AND
-
+The file name shouldn't be too long and revelant to the topic.
 ## The start of the file
 When starting the file you should put file properties. This can be edited using the three dots in the top right next to the book and clicking **Add file property**. This should make a new editor where you can add properties.
 
@@ -32,15 +19,12 @@ This should be placed like this: `Creator, Editor_1, Editor_2, Editor_3`
 The creator must be first
 ### Tags
 The appropriate tags should be used to group pages together correctly. 
-
 ### Aliases
 This should have common names for the topic and plural names. For example we have a page called `server` we can put `servers` or if we have `program` we can have `programs, computer program, computer programs`
-
 ## The file
 The file should have relevant information about the topic and should have lots of links to other wiki page (even if it doesn't exist yet). For example `The CPU manages the [[hardware]] on a [[computer]] and performs [[logic]] and [[arithmetic]] calcuations`. In that example we link several pages together. This lets us build the node graph.
 
 The file should have correct spelling and correct grammar. 
-
 ### Images
 Images should be correctly attributed. This means putting the name of the author or the source of the image. The images should be saved to attachments and be given a appropriate name that describes the image.
 

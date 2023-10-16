@@ -43,3 +43,48 @@ main:
 	pop rbp
 	ret
 ```
+
+## Compilers
+- **[[C]]**:
+	- [[GCC]] (GNU Compiler Collection)
+	- [[Clang]]
+- **[[C++]]**:
+	- [[GCC]] (GNU Compiler Collection)
+	- [[Clang]]
+	- [[Visual C++]]
+- **[[Java]]**:
+	-  [[OpenJDK]]
+	- [[Oracle JDK]]
+- **[[Csharp|C#]]**:
+	- [[Roslyn]] (Microsoft's .NET Compiler Platform)
+- **[[Swift]]**:
+	- [[Swift]] (Apple's Swift Compiler)
+- **[[Rust]]**:
+	- [[Rustc]]
+- **[[Objective-C]]**:
+	- [[Clang]] (supports Objective-C)
+- **[[Go]]**:
+	- [[Golang]]
+- **[[Fortran]]**:
+	- [[GNU Fortran Compiler]]
+
+## Code optimisation
+A compiler can optimise the code by reducing the amount of code that is needed to run.
+
+For example
+
+```c
+int main(){
+	int x = 1;
+	int y = 2;
+	return x + y;
+}
+```
+
+```c
+int main(){
+	return 3;
+}
+```
+
+When this [[program]] is compiled it will always return 3. To reduce the amount of commands being run on the [[CPU]] we can calculate results and remove unnecessary code. This will also reduce the size of the [[binary]].

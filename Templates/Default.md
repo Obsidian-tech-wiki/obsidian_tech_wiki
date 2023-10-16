@@ -1,7 +1,7 @@
 ---
 authors: 
 tags: 
-aliases:
+aliases: [<%tp.file.title.toLowerCase()%>]
 ---
 This is the default template. You can link other pages `[[like this]]`
 
