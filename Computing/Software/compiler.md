@@ -1,0 +1,45 @@
+---
+authors: Lewis Evans
+tags:
+  - Computing
+  - Software
+aliases:
+  - compiled program
+  - compiled code
+  - compiled
+---
+A compiler turns [[source code]] into [[machine code]]
+
+When you want to compile [[source code]] into [[machine code]] you will need to translate the [[source code]] into [[assembly|assembly code]] and then into [[machine code]].
+![[Compiler.png|500]]
+[[Compiler.canvas|Image source]]
+
+When a program is compiled it is only compiled for that [[machine architecture]] and is hard to read as a human.
+## Example
+
+In this example we are going to compile a simple [[C]] program into [[x86_64]] [[assembly]].
+
+Source code:
+
+```c
+int main() {
+	int x = 1;
+	int y = 2;
+	return x + y;
+}
+```
+
+Assembly:
+
+```
+main:
+	push rbp
+	mov rbp, rsp
+	mov DWORD PTR [rbp-4], 1
+	mov DWORD PTR [rbp-8], 2
+	mov edx, DWORD PTR [rbp-4]
+	mov eax, DWORD PTR [rbp-8]
+	add eax, edx
+	pop rbp
+	ret
+```
