@@ -7,7 +7,7 @@ This document has the various callouts you can put on a wiki page
 
 > [!warning]+ Stub
 > This wiki page is a **Stub**.
-> 
+> #Stub 
 > **What is a stub?**
 > A stub is where the document is too short or has too little coverage on the topic
 
