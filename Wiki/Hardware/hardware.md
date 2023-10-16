@@ -11,7 +11,7 @@ There are lots of types of hardware. Here are the most common types of [[hardwar
 ### Main computer components
 - [[CPU]]
 - [[RAM]]
-- [[storage]]
+- [[Storage]]
 - [[IO]]
 - [[Network card]]
 - [[GPU]]
