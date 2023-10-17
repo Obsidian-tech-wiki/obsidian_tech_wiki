@@ -32,9 +32,6 @@ Input devices are [[hardware]] peripherals that allow users to input data or com
 - [[MIDI controller]]
 ___
 #### See also
-- Add other links to pages that are relevant
+- [[Output devices]]
 #### References
-- Add your sources
-- Including websites
-- PDF's
-- And more
+- [Wikipedia](https://en.wikipedia.org/wiki/Input_device)

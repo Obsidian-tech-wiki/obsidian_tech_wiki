@@ -6,7 +6,7 @@ tags:
 When editing this wiki you need to follow these rules so the wiki is consistent. 
 
 ## The filename
-The file name shouldn't be too long and revelant to the topic.
+The file name shouldn't be too long and revenant to the topic.
 ## The start of the file
 When starting the file you should put file properties. This can be edited using the three dots in the top right next to the book and clicking **Add file property**. This should make a new editor where you can add properties.
 
@@ -31,7 +31,7 @@ Images should be correctly attributed. This means putting the name of the author
 Example
 
 ![[Obsidian_logo.png|200]]
-Obsidian Logo. [Image source](https://en.m.wikipedia.org/wiki/File:2023_Obsidian_logo.svg)
+Author name `Obsidian logo` [Image source](https://en.m.wikipedia.org/wiki/File:2023_Obsidian_logo.svg)
 
 You can also put a alt text
 
