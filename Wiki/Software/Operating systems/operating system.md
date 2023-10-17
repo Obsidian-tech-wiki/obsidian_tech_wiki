@@ -19,7 +19,7 @@ Single user operating system have no ways to differentiate between users but may
 ### Real-time
 A real time operating system is a system that needs to be able to process data in real time. This can be used if a system is reliant on data that has to be processed quickly.
 
-### Ebbedded operating system
+### Embedded operating system
 A embedded operating system runs on a small [[computer]] that is specialised for a small machine or component. These operating systems have limited functions and are programmed onto the [[ROM]] of the system.
 
 ## Examples
