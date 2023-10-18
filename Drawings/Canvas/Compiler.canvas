@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"ec2673717c149718","type":"group","x":20,"y":-160,"width":680,"height":380,"color":"6","label":"Compiler"},
+		{"id":"29b7f79b209950f5","type":"group","x":340,"y":-100,"width":326,"height":260,"color":"5","label":"Linker"},
+		{"id":"8add240be1eb2106","type":"text","text":"## Source code","x":-300,"y":0,"width":250,"height":60,"color":"4"},
+		{"id":"b6eaf347ff2a3375","type":"text","text":"## Assembly","x":46,"y":-80,"width":250,"height":60,"color":"4"},
+		{"id":"e5013f0163c66aa3","type":"text","text":"## Standard library","x":386,"y":-80,"width":250,"height":110,"color":"5"},
+		{"id":"8bcc0ee1f3e93bd5","type":"text","text":"## External Library's ","x":386,"y":50,"width":250,"height":90,"color":"5"},
+		{"id":"3531caa3ee880a99","type":"text","text":"## Executable","x":46,"y":240,"width":250,"height":60,"color":"4"},
+		{"id":"c715790b8f827c7b","type":"text","text":"## OS specific Machine code","x":46,"y":45,"width":250,"height":100,"color":"4"}
+	],
+	"edges":[
+		{"id":"1080b4e442481141","fromNode":"b6eaf347ff2a3375","fromSide":"bottom","toNode":"c715790b8f827c7b","toSide":"top","color":"6"},
+		{"id":"376d41e4c245e1de","fromNode":"c715790b8f827c7b","fromSide":"bottom","toNode":"3531caa3ee880a99","toSide":"top","color":"6"},
+		{"id":"81d2d11e81c86acd","fromNode":"8bcc0ee1f3e93bd5","fromSide":"left","toNode":"b6eaf347ff2a3375","toSide":"right","color":"4"},
+		{"id":"76eeb643d7f4399d","fromNode":"8add240be1eb2106","fromSide":"right","toNode":"ec2673717c149718","toSide":"left"},
+		{"id":"adefe001b1ce1d99","fromNode":"e5013f0163c66aa3","fromSide":"left","toNode":"b6eaf347ff2a3375","toSide":"right","color":"4"}
+	]
+}
