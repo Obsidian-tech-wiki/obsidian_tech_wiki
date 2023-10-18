@@ -5,7 +5,7 @@ tags:
 ---
 When editing this wiki you need to follow these rules so the wiki is consistent. 
 ## The filename
-The file name shouldn't be too long and revenant to the topic.
+The file name shouldn't be too long and relevant to the topic.
 ## The start of the file
 When starting the file you should put file properties. This can be edited using the three dots in the top right next to the book and clicking **Add file property**. This should make a new editor where you can add properties.
 

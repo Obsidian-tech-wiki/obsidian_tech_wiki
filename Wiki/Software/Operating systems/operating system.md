@@ -35,7 +35,7 @@ A embedded operating system runs on a small [[computer]] that is specialised for
 		- [[ChromeOS]]
 		- [[ChromiumOS]]
 		- [[Linux mint]]
- - [[macOS]]
+	- [[macOS]]
 - [[Microsoft windows]]
 	- [[MS-DOS]]
 	- [[Windows 3.x]]
