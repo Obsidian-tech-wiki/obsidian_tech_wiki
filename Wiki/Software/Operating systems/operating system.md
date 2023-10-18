@@ -23,7 +23,7 @@ A real time operating system is a system that needs to be able to process data i
 A embedded operating system runs on a small [[computer]] that is specialised for a small machine or component. These operating systems have limited functions and are programmed onto the [[ROM]] of the system.
 
 ## Examples
-- [[Unix]]
+- [[UNIX]]
 	- [[BSD]]
 		- [[FreeBSD]]
 		- [[NetBSD]]
