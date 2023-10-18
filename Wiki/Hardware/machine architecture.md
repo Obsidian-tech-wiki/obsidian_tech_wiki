@@ -10,7 +10,6 @@ Computer architecture is the structure of the computer system. A computer archit
 When designing a computer architecture there needs to be some design goals:
 - Performance
 - Power efficiency 
-
 ## Common computer architectures
 - [[arm]] - [[32-bit]] Advanced [[reduced instruction set computer|RISC]] Machine
 - [[arm64]] - [[64-bit]] Advanced [[reduced instruction set computer|RISC]] Machine
