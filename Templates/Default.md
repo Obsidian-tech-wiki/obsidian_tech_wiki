@@ -11,10 +11,12 @@ Here is the obsidian logo
 Author name `Obsidian logo` [Image source](https://en.m.wikipedia.org/wiki/File:2023_Obsidian_logo.svg)
 Always include a image source and author
 
+Don't want this text try the [[default empty]] template
+
 ___
-#### See also
+## See also
 - Add other links to pages that are relevant
-#### References
+## References
 - Add your sources
 - Including websites
 - PDF's

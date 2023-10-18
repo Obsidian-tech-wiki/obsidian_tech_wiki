@@ -2,10 +2,12 @@
 tags:
   - Main
   - Stub
-  - Computing
   - Hardware
   - Software
-  - Users
   - IO
+  - Authors
+  - Input
+  - Memory
+  - Operating_systems
 ---
 This document contains all the tags in wiki obsidian.

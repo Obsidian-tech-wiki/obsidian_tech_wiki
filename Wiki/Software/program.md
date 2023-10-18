@@ -1,7 +1,6 @@
 ---
 authors: Lewis Evans, David Wood
 tags:
-  - Computing
   - Software
 aliases:
   - programs

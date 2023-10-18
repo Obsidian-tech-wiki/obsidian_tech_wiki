@@ -1,14 +1,13 @@
 ---
 authors: Lewis Evans
 tags:
-  - Computing
   - Software
 aliases:
   - compiled program
   - compiled code
   - compiled
 ---
-A compiler turns [[source code]] into [[machine code]]
+A compiler turns [[source code]] into [[machine code]] so a computer can run it
 
 When you want to compile [[source code]] into [[machine code]] you will need to translate the [[source code]] into [[assembly|assembly code]] and then into [[machine code]].
 ![[Compiler.png|500]]

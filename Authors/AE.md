@@ -1,6 +1,6 @@
 ---
 authors: AE
 tags:
-  - Users
+  - Authors
 ---
 The creator of Wiki Obsidian.

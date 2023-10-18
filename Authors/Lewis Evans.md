@@ -1,6 +1,6 @@
 ---
 authors: Lewis Evans
 tags:
-  - Users
+  - Authors
 ---
 The creator of Wiki Obsidian.

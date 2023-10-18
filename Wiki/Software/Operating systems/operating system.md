@@ -1,7 +1,6 @@
 ---
 authors: Lewis Evans
 tags:
-  - Computing
   - Software
   - Operating_systems
 aliases:
@@ -25,6 +24,9 @@ A embedded operating system runs on a small [[computer]] that is specialised for
 ## Examples
 - [[Unix]]
 	- [[BSD]]
+		- [[FreeBSD]]
+		- [[NetBSD]]
+		- [[OpenBSD]]
 	- [[Linux]]
 		- [[Red Hat]]
 		- [[Debian]]
@@ -50,6 +52,7 @@ A embedded operating system runs on a small [[computer]] that is specialised for
 - [[ReactOS]]
 - [[AmigaOS]]
 - [[OS2]]
+
 ## Kernel
 Main wiki page: [[Operating system kernel]]
 ![[Operating system.excalidraw|400]]

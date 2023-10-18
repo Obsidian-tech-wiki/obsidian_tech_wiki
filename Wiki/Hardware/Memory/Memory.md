@@ -1,8 +1,8 @@
 ---
 authors: Lewis Evans
 tags:
-  - Computing
   - Hardware
+  - Memory
 aliases:
   - computer memory
   - computer storage
@@ -13,8 +13,8 @@ Computer memory has improved over the years. They now have higher capacity and f
 
 ## Types of memory
 In computing there are several types of memory:
-- [[primary memory]]
-- [[secondary memory]]
+- [[Primary memory]]
+- [[Secondary memory]]
 - [[tertiary memory]]
 
 ## Memory storage devices
@@ -25,8 +25,8 @@ There are several types of devices when it comes to storage devices:
 - [[Optical]]
 
 ___
-#### See also
+## See also
 - [[RAM]]
-#### References
+## References
 - [Wikipedia](https://en.wikipedia.org/wiki/Computer_memory(Wikipedia)
 - [Britanica](https://www.britannica.com/technology/computer-memory)

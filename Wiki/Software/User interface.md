@@ -1,7 +1,6 @@
 ---
 authors: Lewis Evans
 tags:
-  - Computing
   - Hardware
 aliases:
   - UI

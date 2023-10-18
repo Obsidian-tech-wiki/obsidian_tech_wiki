@@ -1,7 +1,6 @@
 ---
 authors: Lewis Evans
 tags:
-  - Computing
   - Hardware
 ---
 Hardware refers to the physical components of a [[computer]]. Hardware can contain [[software]] and most of the time needs [[software]] to run. 

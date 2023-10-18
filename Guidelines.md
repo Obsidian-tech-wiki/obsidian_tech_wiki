@@ -4,7 +4,6 @@ tags:
   - Main
 ---
 When editing this wiki you need to follow these rules so the wiki is consistent. 
-
 ## The filename
 The file name shouldn't be too long and revenant to the topic.
 ## The start of the file
@@ -41,9 +40,9 @@ You should put a see also part to link to relevant pages and then a references. 
 Example
 ```
 ___
-#### See also
+## See also
 - Add other links to pages that are relevant
-#### References
+## References
 - Add your sources
 - Including websites
 - PDF's

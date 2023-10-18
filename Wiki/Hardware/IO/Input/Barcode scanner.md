@@ -1,7 +1,6 @@
 ---
 authors: Lewis Evans
 tags:
-  - Computing
   - Hardware
   - IO
   - Input

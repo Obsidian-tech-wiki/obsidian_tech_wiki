@@ -1,7 +1,6 @@
 ---
 authors: 
 tags:
-  - Computing
   - Hardware
   - IO
   - Input
@@ -13,25 +12,31 @@ Input devices are [[hardware]] peripherals that allow users to input data or com
 ## Types of Input Devices
 
 - [[Keyboard]]
+	- [[QWERTY]]
+	- [[Dvorak]]
 - [[Mouse]]
 - [[Touchpad]]
-- [[Touch screen]]
-- [[Stylus]]
+- [[Trackball]]
+- [[Touchscreen]]
 - [[Graphics tablet]]
-- [[Joystick]]
-- [[Gamepad]]
-- [[Scanner]]
 - [[Microphone]]
 - [[Webcam]]
-- [[Gesture recognition device]]
-- [[Biometric scanner]]
+- [[Scanner]]
 - [[Barcode scanner]]
-- [[Digital camera]]
-- [[Trackball]]
+- [[Scanner]]
+- [[Optical character recognition|OCR]]
+- [[Magnetic ink character recognition|MICR]]
+- [[Magnetic stripe reader|MSR]]
+- [[Smart card]]
+- [[Biometric sensor]]
+	- [[Fingerprint scanner]]
+	- [[Iris scanner]]
+	- [[Facial recognition]]
 - [[Light pen]]
+- [[Gesture recognition device]]
 - [[MIDI controller]]
 ___
-#### See also
+## See also
 - [[Output devices]]
-#### References
+## References
 - [Wikipedia](https://en.wikipedia.org/wiki/Input_device)
