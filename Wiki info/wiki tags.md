@@ -9,5 +9,8 @@ tags:
   - Input
   - Memory
   - Operating_systems
+  - Display
+  - Input
+  - Operating_systems
 ---
 This document contains all the tags in wiki obsidian.
