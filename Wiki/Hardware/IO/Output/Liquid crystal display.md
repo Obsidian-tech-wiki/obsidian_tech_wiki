@@ -1,5 +1,5 @@
 ---
-authors: AE
+authors: AE, Lewis Evans
 tags:
   - Computing
   - Display
@@ -9,8 +9,7 @@ aliases:
   - LCD
   - liquid crystal display
 ---
-
-LCD monitors were early flat panel displays but they are more common, today in calculators and similar devices as 7 segment displays; although these displays are much simpler but they work off of the same principals.
+**Liquid crystal display** (LCD) monitors were early flat panel displays but they are more common, today in calculators and similar devices as 7 segment displays; although these displays are much simpler but they work off of the same principals.
 
 In these displays microscopic crystals orientate themselves to a specific direction when a voltage is applied, this causes the light to be distorted and let more or less light through making it more or less grey.
 As the crystals themselves do not emit light a LED panel is placed behind the crystals.
