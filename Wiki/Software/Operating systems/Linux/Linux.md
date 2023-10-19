@@ -11,7 +11,7 @@ tags:
 Linux is a [[operating system]] that is based on the [[UNIX]] system. It was developed by [[Linus Torvalds]] in 1991. It is a [[open source]] [[operating system]] and is free to use. It is a [[multi-user]] and [[multi-tasking]] operating system.
 
 ## Distributions
-
+Main wiki page: [[Linux distributions]]
 Linux has many different distributions. A distribution is a version of Linux that has different software and settings. Some distributions are:
 
 - [[Red Hat]]
@@ -45,3 +45,28 @@ A desktop environment is a set of software that makes the operating system easie
 - [[Budgie]]
 - [[Enlightenment]]
 - [[LXQt]]
+## Software
+Linux has lots of software that can be used for a range of different tasks. These software can be used for nearly any purpose, for home or server.
+
+### The linux command line
+All linux distros have a command line in them. Commonly you would access this trough a [[TTY]] terminal. When you access the command line you will be given a [[shell]]. Most of the time this is [[bash]] but there are others such as [[zsh]], [[fish]] and [[sh]]. The command line is very powerful and can be used to do many things. You can use it to install software, manage files, manage users and much more. You can also use it to run programs. You can also use it to run programs in the background. This is useful for running servers.
+
+Here are the most common commands you will use:
+
+- File management
+  - [[ls]]
+  - [[cd]]
+  - [[mkdir]]
+  - [[rm]]
+  - [[mv]]
+  - [[cp]]
+  - [[cat]]
+- Editors
+  - [[nano]]
+  - [[vim]]
+  - [[nvim]]
+- [[Compiler|Compilers]]
+  - [[ld]]
+  - [[gcc]]
+  - [[as]]
+  - [[nasm]]

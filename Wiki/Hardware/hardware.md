@@ -17,7 +17,7 @@ There are lots of types of hardware. Here are the most common types of [[hardwar
 
 ### Input devices
 Main wiki page: [[Input devices]]
-A input device allows you to input data to a computer system. Here are some examples:
+A input device allows you to input data to a [[computer]] system. Here are some examples:
 
 - [[Keyboard]]
 - [[Mouse]]
@@ -26,7 +26,7 @@ A input device allows you to input data to a computer system. Here are some exam
 - [[Scanner]]
 - [[Camera]]
 ### Output devices
-A output device allows you to see data that the computer is sending out. Here are some examples:
+A output device allows you to see data that the [[computer]] is sending out. Here are some examples:
 
 - [[Display]]
 - [[Speakers]]

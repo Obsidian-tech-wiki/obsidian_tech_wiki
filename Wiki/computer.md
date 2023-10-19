@@ -15,7 +15,8 @@ A computer is a [[machine]] that is programmable and can compute a series of ins
 - [[complex instruction set computer|CISC]]
 - [[reduced instruction set computer|RISC]]
 
-## Types of computer size
+## Types of a computer
+Main wiki page: [[Types of a computer]]
 - [[Server]]
 	- [[Rack mounted server]]
 	- [[Tower server]]
@@ -34,10 +35,9 @@ A computer is a [[machine]] that is programmable and can compute a series of ins
 - [[Microcontroller]]
 
 ## Computer hardware
+Main wiki page: [[hardware]]
 Computers have hardware to run the software.
-
 ### Main computer components
-
 - [[CPU]]
 	- [[Accumulator]]
 	- [[Arithmetic logic unit|ALU]]
@@ -54,12 +54,11 @@ Computers have hardware to run the software.
 	- [[Tape]]
 
 ### Computer architecture
-Main wiki page: [[machine architecture]]
+Main wiki page: [[Machine architecture]]
 
 Computers have different architectures. The most common are [[Von Neuman architecture]] and [[Harvard architectutre]]. Each architecture either is a [[complex instruction set computer|CISC]] or [[reduced instruction set computer|RISC]].
 
 Computer architectures:
-
 - [[arm]] - [[32-bit]] Advanced [[reduced instruction set computer|RISC]] Machine
 - [[arm64]] - [[64-bit]] Advanced [[reduced instruction set computer|RISC]] Machine
 - [[ia32]] - [[32-bit]] [[Intel]] Architecture
@@ -78,7 +77,6 @@ Computer architectures:
 - [[m68k]] - [[Motorola]] 680x0 Architecture
 
 ### Computer bit size
-
 Computers have different bit sizes. The most common are 32-bit and 64-bit. The bit size of a computer is the size of the [[CPU]] registers. The bit size of a computer determines the maximum amount of [[RAM]] the computer can use.
 
 - [[4-bit]]
@@ -87,8 +85,7 @@ Computers have different bit sizes. The most common are 32-bit and 64-bit. The b
 - [[32-bit]]
 - [[64-bit]]
 
-### Input and output
-
+### Input and output
 Computers have different input and output devices. The most common are [[keyboard]] and [[mouse]] for input and [[Display|monitor]] for output.
 
 #### Input devices

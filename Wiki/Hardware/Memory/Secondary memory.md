@@ -12,7 +12,7 @@ aliases:
 Not all computers require secondary storage. Computers such as [[embedded computers]] may not need secondary storage and can rely off [[ROM]].
 
 ## Types
-- [[CD]]
+- [[Compact disk|CD]]
 - [[DVD]]
 - [[Blu-ray]]
 - [[SSD]]

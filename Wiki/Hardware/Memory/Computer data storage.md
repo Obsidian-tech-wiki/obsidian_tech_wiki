@@ -14,7 +14,7 @@ See main wiki: [[Magnetic disk]]
 
 ## Optical disk
 See main wiki: [[Optical disk]]
-- [[CD]]
+- [[Compact disk|CD]]
 	- [[CD-ROM]]
 	- [[CD-R]]
 	- [[CD-RW]]

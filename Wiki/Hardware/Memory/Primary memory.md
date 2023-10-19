@@ -13,4 +13,4 @@ There are two types of primary memory
 - [[ROM|Read only memory]]
 - [[RAM|Random access memory]]
 
-Rom is non volatile where as [[RAM]] is volatile. This means that when the computer is turned off the contents of [[RAM]] is lost.
+Rom is non volatile where as [[RAM]] is volatile. This means that when the [[computer]] is turned off the contents of [[RAM]] is lost.
