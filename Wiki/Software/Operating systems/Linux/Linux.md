@@ -8,8 +8,7 @@ tags:
 > [!info]+ Summarised
 > A [[UNIX]] based operating system that is [[open source]]
 
-Linux is a [[operating system]] that is based on the [[UNIX]] system. It was developed by [[Linus Torvalds]] in 1991. It is a [[open source]] [[operating system]] and is free to use. It is a [[multi-user]] and [[multi-tasking]] operating system.
-
+Linux is a [[operating system]] that is based on the [[UNIX]] system. It was developed by [[Linus Torvalds]] in 1991. It is a [[open source]] [[operating system]] and is free to use. It is a [[multi-user]] and [[multi-tasking]] operating system. Linux was written in [[C]] and [[Assembly]].
 ## Distributions
 Main wiki page: [[Linux distributions]]
 Linux has many different distributions. A distribution is a version of Linux that has different software and settings. Some distributions are:

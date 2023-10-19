@@ -1,7 +1,6 @@
 ---
 authors: AE, Lewis Evans
 tags:
-  - Computing
   - Display
   - Hardware
   - IO
