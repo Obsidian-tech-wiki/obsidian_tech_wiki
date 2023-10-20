@@ -10,4 +10,4 @@ Programming language:
 Architecture:
   - x86
 ---
-The `PING` command is used to test network connectivity to a specific[[ IP address]]. It sends packets to the address and reports the response time.
+The `PING` command is used to test [[network]] connectivity to a specific [[IP address]]. It sends packets to the address and reports the response time.
