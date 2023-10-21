@@ -5,8 +5,6 @@ tags:
   - Operating_systems
   - Linux
   - Linux_software
-aliases:
-  - ls
 ---
 In [[Linux]] and [[UNIX]] the **ls** command lists a directory contents. 
 ## Example

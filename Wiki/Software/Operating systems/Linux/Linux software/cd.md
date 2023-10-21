@@ -1,12 +1,10 @@
 ---
-authors: 
+authors: Lewis Evans
 tags:
   - Software
   - Operating_systems
   - Linux
   - Linux_software
-aliases:
-  - cd
 ---
 *Not to be confused with **[[Compact disk]] (CD)***
 ___
