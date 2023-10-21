@@ -3,6 +3,8 @@ authors: Lewis Evans
 tags:
   - Software
   - Networks
+aliases:
+  - internet
 ---
 The internet is a set of interconnected [[Computer network|computer networks]] that use the [[Internet protocol suite|internet protocol suite]] to communicate between other [[Computer|computers]] and [[Network|networks]].
 

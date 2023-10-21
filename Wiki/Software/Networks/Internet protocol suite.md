@@ -3,6 +3,8 @@ authors: Lewis Evans
 tags:
   - Software
   - Networks
+aliases:
+  - internet protocol suite
 ---
 The internet protocol suite is a set of protocols that the [[Internet|internet]] uses to communicate between other computers and [[Network|networks]].
 
