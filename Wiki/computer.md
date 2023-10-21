@@ -16,7 +16,7 @@ A computer is a [[machine]] that is programmable and can compute a series of ins
 - [[reduced instruction set computer|RISC]]
 
 ## Types of a computer
-Main wiki page: [[Types of a computer]]
+*Main wiki page: [[Types of a computer]]*
 - [[Server]]
 	- [[Rack mounted server]]
 	- [[Tower server]]
@@ -35,7 +35,7 @@ Main wiki page: [[Types of a computer]]
 - [[Microcontroller]]
 
 ## Computer hardware
-Main wiki page: [[hardware]]
+*Main wiki page: [[hardware]]*
 Computers have hardware to run the software.
 ### Main computer components
 - [[CPU]]
@@ -48,13 +48,13 @@ Computers have hardware to run the software.
 	- [[Program counter]]
 - [[RAM]]
 - [[Computer data storage|Storage]]
-	- [[Hard disk drive|HDD]]
-	- [[Solid state drive|SSD]]
+	- [[HDD]]
+	- [[SSD]]
 	- [[Optical disc drive|ODD]] 
 	- [[Tape]]
 
 ### Computer architecture
-Main wiki page: [[Machine architecture]]
+*Main wiki page: [[Machine architecture]]*
 
 Computers have different architectures. The most common are [[Von Neuman architecture]] and [[Harvard architectutre]]. Each architecture either is a [[complex instruction set computer|CISC]] or [[reduced instruction set computer|RISC]].
 
@@ -117,7 +117,7 @@ Main wiki page: [[Input devices]]
 - [[MIDI controller]]
 
 #### Output devices
-Main wiki page: [[output devices]]
+*Main wiki page: [[output devices]]*
 
 - [[Display|Monitor]]
 	- [[Cathode ray tube display]]
@@ -155,7 +155,7 @@ Main wiki page: [[output devices]]
 - [[Projector]]
 
 ### Computer peripherals
-Main wiki page: [[computer peripherals]]
+*Main wiki page: [[computer peripherals]]*
 
 - [[Network card]]
 - [[Graphics card|GPU]]
@@ -174,11 +174,10 @@ Main wiki page: [[computer peripherals]]
 	- [[Liquid cooling]]
 
 ## Computer Software
-
 Computers need software to run. Software is a set of instructions that the computer can run. Software can be [[open source]] or [[proprietary]].
 
 ### Operating systems
-Main wiki page: [[operating system]]
+*Main wiki page: [[operating system]]*
 
 A operating system is a set of software that manages the computer hardware and software. The operating system is the most important software on a computer. The operating system is the first software that runs when the computer is turned on. The operating system is the software that the user interacts with.
 
@@ -211,7 +210,6 @@ A operating system is a set of software that manages the computer hardware and s
 - [[OS2]]
 
 ### Programming languages
-
 In order to write software you need to use a programming language. There are lots of programming languages.
 
 - [[Assembly]] (Lowest level)
