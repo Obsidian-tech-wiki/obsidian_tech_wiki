@@ -54,7 +54,7 @@ Here are the most common commands you will use:
 
 - File management
   - [[ls]]
-  - [[cd]]
+  - [[Wiki/Software/Operating systems/Linux/Linux software/cd|cd]]
   - [[mkdir]]
   - [[rm]]
   - [[mv]]
