@@ -9,7 +9,7 @@ Programming language:
 Architecture:
   - x86
 ---
-[[MS-DOS]] version 2 came with support for [[IBM|IBM's]] XT 10MB hard disk drive and could support up to 16 MB and 32MB [[FAT32]] disk drives
+[[MS-DOS]] version 2 came with support for [[IBM|IBM's]] XT 10MB hard disk drive and could support up to 16MB and 32MB [[FAT32]] disk drives
 
 ## Versions
 - Version 2.0 First version to support 5.25-inch 180KB and  360KB [[Floppy disk|floppy disks]]

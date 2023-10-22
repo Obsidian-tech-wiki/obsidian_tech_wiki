@@ -24,4 +24,4 @@ Architecture:
 - Version 3.30
 - Version 3.30A
 - Version 3.30T
-- Version 3.31  - Support for [[FAT16B]] with larger partitions at 32 MB
+- Version 3.31  - Support for [[FAT16B]] with larger partitions at 32MB
