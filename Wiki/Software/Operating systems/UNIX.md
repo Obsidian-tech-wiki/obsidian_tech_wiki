@@ -7,7 +7,7 @@ aliases:
   - unix
 ---
 > [!info]+ Summarised
-> A operating system that was developed by bell labs in the 1970s
+> A [[operating system]] that was developed by bell labs in the 1970s
 
 **UNIX** is a [[operating system]] that was developed in the 1970s. It is a [[multi-user]] and [[multi-tasking]] operating system. It is a [[command line]] [[operating system]] but some versions have a [[graphical user interface]]. It is a [[proprietary]] [[operating system]]. Many [[operating system]]s are based on UNIX or a UNIX like system.
 
