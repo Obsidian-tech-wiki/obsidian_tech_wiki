@@ -3,6 +3,8 @@ authors: Lewis Evans
 tags:
   - Hardware
   - Types_of_computer
+aliases:
+  - server
 ---
 A server is a [[computer]] that provides functionality to other devices called [[clients]]. This [[network]] architecture is called a [[client-server model]].
 

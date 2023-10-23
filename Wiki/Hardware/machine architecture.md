@@ -4,6 +4,7 @@ tags:
   - Hardware
 aliases:
   - architecture
+  - machine architecture
 ---
 Computer architecture is the structure of the [[computer]] system. A [[computer]] architecture may include the [[instruction set]] or the logic design.
 
