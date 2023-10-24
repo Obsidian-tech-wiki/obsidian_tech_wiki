@@ -21,12 +21,28 @@ There are lots of types of hardware. Here are the most common types of [[hardwar
 Main wiki page: [[Input devices]]
 A input device allows you to input data to a [[computer]] system. Here are some examples:
 
-- [[Keyboard]]
+ [[Keyboard]]
 - [[Mouse]]
 - [[Touchpad]]
+- [[Trackball]]
+- [[Touchscreen]]
+- [[Graphics tablet]]
 - [[Microphone]]
+- [[Webcam]]
 - [[Scanner]]
-- [[Camera]]
+- [[Barcode scanner]]
+- [[Scanner]]
+- [[Optical character recognition|OCR]]
+- [[Magnetic ink character recognition|MICR]]
+- [[Magnetic stripe reader|MSR]]
+- [[Smart card]]
+- [[Biometric sensor]]
+	- [[Fingerprint scanner]]
+	- [[Iris scanner]]
+	- [[Facial recognition]]
+- [[Light pen]]
+- [[Gesture recognition device]]
+- [[MIDI controller]]
 ### Output devices
 A output device allows you to see data that the [[computer]] is sending out. Here are some examples:
 
