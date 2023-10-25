@@ -14,4 +14,4 @@ aliases:
 > **What is a stub?**
 > A stub is where the document is too short or has too little coverage on the topic
 
-A [[display]] screen that detects and responds to touch input, used in [[smartphones]], [[tablets]], and other devices.
+A [[Display]] screen that detects and responds to touch input, used in [[smartphones]], [[tablets]], and other devices.

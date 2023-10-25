@@ -10,7 +10,7 @@ A computer is a [[machine]] that is programmable and can compute a series of ins
 ## Types of computer architectures
 - [[Analog computer]]
 - [[Digital computer]]
-- [[Harvard architectutre]]
+- [[Harvard architecture]]
 - [[Von Neuman architecture]]
 - [[complex instruction set computer|CISC]]
 - [[reduced instruction set computer|RISC]]

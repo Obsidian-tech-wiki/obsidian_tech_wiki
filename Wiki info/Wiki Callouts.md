@@ -3,7 +3,7 @@ authors: Lewis Evans
 tags:
   - Main
 ---
-This document has the various callouts you can put on a wiki page
+This document contains the various callouts you can put on a wiki page
 
 > [!warning]+ Stub
 > This wiki page is a **Stub**.
