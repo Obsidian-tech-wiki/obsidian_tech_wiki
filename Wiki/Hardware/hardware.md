@@ -47,7 +47,7 @@ A input device allows you to input data to a [[computer]] system. Here are some 
 A output device allows you to see data that the [[computer]] is sending out. Here are some examples:
 
 - [[Display]]
-- [[Speakers]]
+- [[Speaker]]
 - [[Haptic]]
 - [[Printer]]
 - [[Light]]
