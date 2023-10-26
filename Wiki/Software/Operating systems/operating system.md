@@ -6,6 +6,7 @@ tags:
 aliases:
   - OS
   - operating system
+  - operating systems
 ---
 A **operating system** (OS) is [[software]] that manages the [[hardware]] or the [[computer]]. It also provides common services for the operating system. The operating also manages the [[memory]] of the computer. A operating system would usually have a [[Operating system kernel|kernel]] that talks directly to the [[hardware]]
 
