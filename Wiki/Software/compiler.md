@@ -6,6 +6,7 @@ aliases:
   - compiled program
   - compiled code
   - compiled
+  - compiler
 ---
 A compiler turns [[source code]] into [[machine code]] so a [[computer]] can run it
 

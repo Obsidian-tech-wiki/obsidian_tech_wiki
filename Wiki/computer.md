@@ -117,7 +117,7 @@ Main wiki page: [[Input devices]]
 - [[MIDI controller]]
 
 #### Output devices
-*Main wiki page: [[output devices]]*
+*Main wiki page: [[Output devices]]*
 
 - [[Display|Monitor]]
 	- [[Cathode ray tube display]]

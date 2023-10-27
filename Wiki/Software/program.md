@@ -13,7 +13,7 @@ aliases:
 > **What is a stub?**
 > A stub is where the document is too short or has too little coverage on the topic
 
-A program is piece [[software]] or a set of instructions that is run on a computer. A program is written in a programming language and then ran on the [[computer]] as a [[compiler|compiled]] program or [[interpreted]].
+A program is piece [[software]] or a set of instructions that is run on a computer. A program is written in a programming language and then ran on the [[computer]] as a [[compiler|compiled]] program or [[Interpreted programming language|interpreted]].
 
 Computer programs allow the [[computer]] to perform tasks and store them on the computers [[memory]] and run them later.
 

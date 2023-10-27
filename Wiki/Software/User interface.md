@@ -15,7 +15,6 @@ There are two main types of user interfaces:
 
 %% TODO: Create separate pages for different UI's %%
 ### Command line interface
-**1969-present**
 
 ![[CLI.png|500]]
 Lewis Evans `Windows XP Command line interface`
