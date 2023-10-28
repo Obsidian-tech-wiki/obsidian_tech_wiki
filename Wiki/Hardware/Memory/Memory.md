@@ -15,7 +15,7 @@ Computer memory has improved over the years. They now have higher capacity and f
 In computing there are several types of memory:
 - [[Primary memory]]
 - [[Secondary memory]]
-- [[tertiary memory]]
+- [[Tertiary memory]]
 
 ## Memory storage devices
 There are several types of devices when it comes to storage devices:
