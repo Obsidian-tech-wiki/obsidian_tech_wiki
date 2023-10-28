@@ -1,0 +1,90 @@
+---
+authors: Lewis Evans
+tags:
+  - Hardware
+  - Computer_architectures
+aliases:
+  - ARM
+  - Advanced RISC Machine
+  - advanced RISC machine
+---
+ARM, which stands for "Advanced [[reduced instruction set computer|RISC]] Machine," is a family of computer architectures known for their [[reduced instruction set computer|reduced instruction set computing]] (RISC) design. ARM processors are widely used in various devices, including smartphones, tablets, and embedded systems. The architecture has versions for both [[32-bit]] and [[64-bit]] processing. ARM machines can give the balance between performance and efficiency.
+
+## Types of ARM chips
+- Apple - For list of apple silicone chips see: [[List of Apple silicone chips]]
+	- A chips
+		- [[Apple A4|A4]]
+		- [[Apple A5|A5]]
+		- [[Apple A5X|A5X]]
+		- [[Apple A6|A6]]
+		- [[Apple A6X|A6X]]
+		- [[Apple A7|A7]]
+		- [[Apple A8|A8]]
+		- [[Apple A9|A9]]
+		- [[Apple A9X|A9X]]
+		- [[Apple A10 Fusion|A10 Fusion]]
+		- [[Apple A11 Bionic|A11 Bionic]]
+		- [[Apple A12 Bionic|A12 Bionic]]
+		- [[Apple A12X Bionic|A12X Bionic]]
+		- [[Apple A12Z Bionic|A12Z Bionic]]
+		- [[Apple A13 Bionic|A13 Bionic]]
+		- [[Apple A14 Bionic|A14 Bionic]]
+		- [[Apple A15 Bionic|A15 Bionic]]
+		- [[Apple A16 Bionic|A16 Bionic]]
+		- [[Apple A17 Pro|A17 Pro]]
+	- M chips
+		- [[Apple M1|M1]]
+			- [[Apple M1 Pro|M1 Pro]]
+			- [[Apple M1 Max|M1 Max]]
+			- [[Apple M1 Ultra|M1 Ultra]]
+		- [[Apple M2|M2]]
+			- [[Apple M2 Pro|M2 Pro]]
+			- [[Apple M2 Max|M2 Max]]
+			- [[Apple M2 Ultra|Apple M2 Ultra]]
+- Qualcomm Snapdragon
+    - [[Snapdragon 888|SD888]]
+    - [[Snapdragon 865|SD865]]
+    - [[Snapdragon 855|SD855]]
+    - [[Snapdragon 845|SD845]]
+    - [[Snapdragon 835|SD835]]
+    - [[Snapdragon 820|SD820]]
+    - [[Snapdragon 810|SD810]]
+    - [[Snapdragon 801|SD801]]
+    - [[Snapdragon 800|SD800]]
+- Broadcom
+    - [[Broadcom BCM21664|BCM21664]]
+    - [[Broadcom BCM2837|BCM2837]]
+- Samsung Exynos
+    - [[Exynos 2100|Exynos 2100]]
+    - [[Exynos 990|Exynos 990]]
+    - [[Exynos 9825|Exynos 9825]]
+    - [[Exynos 9810|Exynos 9810]]
+    - [[Exynos 8895|Exynos 8895]]
+    - [[Exynos 7420|Exynos 7420]]
+    - [[Exynos 5433|Exynos 5433]]
+    - [[Exynos 4412|Exynos 4412]]
+    - [[Exynos 4210|Exynos 4210]]
+- NVIDIA Tegra
+    - [[Tegra X1|Tegra X1]]
+    - [[Tegra K1|Tegra K1]]
+    - [[Tegra 4|Tegra 4]]
+    - [[Tegra 3|Tegra 3]]
+    - [[Tegra 2|Tegra 2]]
+    - [[Tegra APX 2500|Tegra APX 2500]]
+- Huawei Kirin
+    - [[Kirin 990|Kirin 990]]
+    - [[Kirin 980|Kirin 980]]
+    - [[Kirin 970|Kirin 970]]
+    - [[Kirin 960|Kirin 960]]
+    - [[Kirin 950|Kirin 950]]
+    - [[Kirin 930|Kirin 930]]
+    - [[Kirin 920|Kirin 920]]
+- MediaTek Helio
+    - [[MediaTek Dimensity 1200|Dimensity 1200]]
+    - [[MediaTek Dimensity 1100|Dimensity 1100]]
+    - [[MediaTek Dimensity 900|Dimensity 900]]
+    - [[MediaTek Dimensity 800U|Dimensity 800U]]
+    - [[MediaTek Dimensity 700|Dimensity 700]]
+    - [[MediaTek Dimensity 1000|Dimensity 1000]]
+    - [[MediaTek Helio G95|Helio G95]]
+    - [[MediaTek Helio G90T|Helio G90T]]
