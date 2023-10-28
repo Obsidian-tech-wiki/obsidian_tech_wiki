@@ -1,0 +1,15 @@
+---
+authors: Lewis Evans
+tags:
+  - Software
+  - Networks
+aliases:
+  - virtual private network
+  - vpn
+  - VPN
+  - VPN's
+  - VPNs
+  - vpns
+  - vpn's
+---
+**Virtual Private Network** or VPNs are secure [[Network|networks]] that use [[encryption]] to create a private connection over a public network, ensuring data privacy.

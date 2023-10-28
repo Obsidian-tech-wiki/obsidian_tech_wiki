@@ -1,0 +1,9 @@
+---
+authors: Lewis Evans
+tags:
+  - Software
+  - Networks
+aliases:
+  - telnet
+---
+Telnet is a remote access protocol that allows users to connect to and manage remote systems over a network.
