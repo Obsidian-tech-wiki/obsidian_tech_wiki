@@ -18,5 +18,5 @@ You can use the information in this wiki but it would be nice if you could credi
 Example
 
 ```
-Information provided by [Obsidian tech wiki](https://github.com/lewisevans2007/obsidian_tech_wiki)
+Information provided by [Obsidian tech wiki](https://github.com/Obsidian-tech-wiki/obsidian_tech_wiki)
 ```
