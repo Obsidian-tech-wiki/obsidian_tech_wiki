@@ -1,6 +1,6 @@
 ---
 authors: 
-  - "[[AE]]"
+  - AE
 tags:
   - Authors
 ---
