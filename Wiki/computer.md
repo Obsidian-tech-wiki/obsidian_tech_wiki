@@ -90,7 +90,7 @@ Computers have different bit sizes. The most common are 32-bit and 64-bit. The b
 Computers have different input and output devices. The most common are [[keyboard]] and [[mouse]] for input and [[Display|monitor]] for output.
 
 #### Input devices
-Main wiki page: [[Input devices]]
+*Main wiki page: [[Input devices]]*
 
 - [[Keyboard]]
 	- [[QWERTY]]
