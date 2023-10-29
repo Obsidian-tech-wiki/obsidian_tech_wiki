@@ -14,7 +14,15 @@ Heres what it should look like
 ![[File properties.png]]
 
 ### Authors
-This should be placed like this: `Creator, Editor_1, Editor_2, Editor_3`
+This is a list property similar to tags. This should be a list of authors in order of first being the creator and then the rest being each editor in order of editing date. Example
+```
+authors:
+  - Creator
+  - Editor 1
+  - Editor 2
+```
+
+When editing in live preview you can use the enter and tab keys to navigate in the field.
 
 The creator must be first
 ### Tags
