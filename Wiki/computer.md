@@ -67,7 +67,7 @@ Computer architectures:
 - [[mipsel]] - [[64-bit]] [[Microprocessor]]
 - [[ppc]] - [[PowerPC]] Architecture
 - [[ppc64]] - [[64-bit]] [[PowerPC]] Architecture
-- [[s390]] - [[31-bit]] The [[IBM]] System/390
+- [[s390]] - 31-bit The [[IBM]] System/390
 - [[s390x]] - [[64-bit]] The [[IBM]] System/390
 - [[i386]] - [[32-bit]] extended systems
 - [[x86_64]] - [[64-bit]] extended systems
@@ -216,7 +216,7 @@ In order to write software you need to use a programming language. There are lot
 - [[Assembly]] (Lowest level)
 - [[C]]
 	- [[C++]]
-	- [[C#]]
+	- [[Csharp]]
 	- [[Objective-C]]
 - [[Java]]
 - [[JavaScript]]
