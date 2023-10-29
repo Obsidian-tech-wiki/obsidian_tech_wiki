@@ -1,5 +1,6 @@
 ---
-authors: Lewis Evans
+authors: 
+  - Lewis Evans
 tags:
   - Main
   - Authors

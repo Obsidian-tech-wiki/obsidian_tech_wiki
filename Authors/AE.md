@@ -1,5 +1,6 @@
 ---
-authors: AE
+authors: 
+  - "[[AE]]"
 tags:
   - Authors
 ---

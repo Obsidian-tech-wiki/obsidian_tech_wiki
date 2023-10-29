@@ -1,5 +1,7 @@
 ---
-authors: Lewis Evans, David Wood
+authors: 
+  - Lewis Evans
+  - David Wood
 tags:
   - Software
 aliases:

@@ -1,5 +1,7 @@
 ---
-authors: AE, Lewis Evans
+authors: 
+  - AE
+  - Lewis Evans
 tags:
   - Hardware
   - IO

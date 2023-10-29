@@ -1,24 +1,24 @@
 ---
-authors: Lewis Evans
+authors: 
+  - Lewis Evans
 tags:
   - Hardware
 aliases:
   - hardware
 ---
-Hardware refers to the physical components of a [[computer]]. Hardware can contain [[software]] and most of the time needs [[software]] to run. 
-
+Hardware refers to the physical components of a [[computer]]. Hardware can contain [[software]] and most of the time needs [[software]] and [[Device driver|drivers]] to run. 
 ## Common hardware components
 There are lots of types of hardware. Here are the most common types of [[hardware]].
 ### Main computer components
 - [[CPU]]
 - [[RAM]]
-- [[Storage]]
+- [[Computer data storage]]
 - [[IO]]
 - [[Network card]]
 - [[GPU]]
 
 ### Input devices
-Main wiki page: [[Input devices]]
+*Main wiki page: [[Input devices]]*
 A input device allows you to input data to a [[computer]] system. Here are some examples:
 
  [[Keyboard]]
@@ -44,6 +44,7 @@ A input device allows you to input data to a [[computer]] system. Here are some 
 - [[Gesture recognition device]]
 - [[MIDI controller]]
 ### Output devices
+*Main wiki page: [[Output devices]]*
 A output device allows you to see data that the [[computer]] is sending out. Here are some examples:
 
 - [[Display]]
