@@ -7,7 +7,7 @@ tags:
 aliases:
   - internet
 ---
-The internet is a set of interconnected [[Computer network|computer networks]] that use the [[Internet protocol suite|internet protocol suite]] to communicate between other [[Computer|computers]] and [[Network|networks]].
+The internet is a set of interconnected [[Computer network|computer networks]] that use the [[Internet protocol suite|internet protocol suite]] to communicate between other [[Computer|computers]] and [[Network|networks]] also known as nodes.
 
 ## Types of internet services
 The internet provides lots of services including:
