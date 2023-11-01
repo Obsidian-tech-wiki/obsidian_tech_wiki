@@ -8,4 +8,8 @@ aliases:
   - extensible messaging and presence protocol
   - XMPP
 ---
-XMPP is a communication protocol for instant messaging and presence information.
+**Extensible Messaging and Presence Protocol** (XMPP) is a communication protocol for instant messaging and presence information.
+
+___
+## See also
+- [[Internet Relay Chat]]
