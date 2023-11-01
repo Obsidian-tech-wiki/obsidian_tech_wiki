@@ -16,7 +16,7 @@ The internet protocol suite provides lots of protocols including:
 - [[User Datagram Protocol]]
 
 ## Internet protocol suite layers
-The internet protocol suite is split into 4 layers:
+The internet protocol suite is split into 4 main layers:
 - Application layer
 - Transport layer
 - Internet layer
