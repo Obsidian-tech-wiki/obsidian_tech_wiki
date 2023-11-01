@@ -10,3 +10,8 @@ aliases:
   - SSH
 ---
 SSH is a secure alternative to Telnet for remote system access. It [[Encryption|encrypts]] the communication, enhancing [[Cybersecurity|security]].
+
+___
+## See also
+- [[Telnet]]
+- [[Remote Desktop Protocol|Remote Desktop Protocol (RDP)]]
