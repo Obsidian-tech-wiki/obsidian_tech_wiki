@@ -1,5 +1,5 @@
 ---
-authors: 
+authors:
   - Lewis Evans
 tags:
   - Software
@@ -11,6 +11,7 @@ aliases:
   - win32
   - win64
   - win
+  - Windows
 Programming language:
   - "[[C]]"
   - "[[C++]]"

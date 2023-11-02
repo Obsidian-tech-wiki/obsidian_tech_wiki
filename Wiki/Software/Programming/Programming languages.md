@@ -14,7 +14,6 @@ aliases:
 - [[BASIC]]
 - [[C]]
 	- [[C++]]
-	- [[C*]]
 	- [[Csharp]]
 - [[CSS]]
 - [[Delphi]]
