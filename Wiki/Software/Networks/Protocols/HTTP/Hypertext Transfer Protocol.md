@@ -23,7 +23,7 @@ HTTP has gone through several versions over the years.
 ## HTTP request messages
 A request message is sent to the target [[server]] from the [[client]].
 ### Request syntax
-A client sends a request message to the server which contain:
+A [[client]] sends a request message to the [[server]] which contain:
 - The request line which has a request method that is case sensitive, a apace, the path, a space and then the HTTP version
 ```
 GET /index.html HTTP/1.1

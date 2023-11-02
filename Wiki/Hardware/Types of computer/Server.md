@@ -7,7 +7,7 @@ tags:
 aliases:
   - server
 ---
-A server is a [[computer]] that provides functionality to other devices called [[clients]]. This [[network]] architecture is called a [[client-server model]].
+A **server** is a [[computer]] that provides functionality to other devices called [[client|clients]]. This [[network]] architecture is called a [[client-server model]].
 
 ## Purposes
 - [[Web server]]
