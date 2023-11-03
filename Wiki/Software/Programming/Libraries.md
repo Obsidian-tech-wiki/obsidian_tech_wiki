@@ -1,6 +1,7 @@
 ---
 authors:
   - AE
+  - Lewis Evans
 tags:
   - Software
   - Programming
@@ -9,12 +10,11 @@ aliases:
   - libs
 ---
 Libraries are collections of precompiled code deigned to simplify and optimise specific tasks
-
 ## Dynamic libraries:
 
 This type of libraries are supposed to be used by lots of [[program|programs]] but are not added to the executable at compile time.
 These libraries are usually in a central location.
-E.G: /usr/local/lib on [[UNIX]] systems
+E.G: `/usr/local/lib` on [[UNIX]] systems
 
 The standard file extensions are:
 	[[Microsoft windows|Windows]]: .dll
@@ -22,7 +22,7 @@ The standard file extensions are:
 	[[Linux]] and other [[UNIX]]: .so
 
 Often to link this type of library to a compiler you need to specify the path to the file the library is in with -L and then specify the name of the library with -l; if the library name has lib at the start don't add that to the [[flag]]
-E.G: [[clang++]] test.cpp -L libraries -l Test
+E.G: `clang++ test.cpp -L libraries -l Test`
 The file name of the library is libTest.dylib
 
 ## Static libraries:
@@ -34,4 +34,4 @@ The standard file extensions are:
 	[[UNIX]]: .a
 
 Often to link this type of library to a compiler all you need to do is add the file in the command
-E.G: [[clang++]] test.cpp libraries/libTest.a
+E.G: `clang++ test.cpp libraries/libTest.a`
