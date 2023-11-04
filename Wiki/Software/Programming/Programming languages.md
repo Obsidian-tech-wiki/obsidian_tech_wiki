@@ -44,3 +44,8 @@ aliases:
 - [[Swift]]
 - [[TypeScript]]
 - [[Vim script]]
+
+___
+## See also
+- [[Software]]
+- [[Machine code]]
