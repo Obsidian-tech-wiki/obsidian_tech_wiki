@@ -9,7 +9,7 @@ aliases:
   - libraries
   - libs
 ---
-Libraries are collections of precompiled code deigned to simplify and optimise specific tasks
+**Libraries** are collections of precompiled code deigned to simplify and optimise specific tasks
 ## Dynamic libraries:
 
 This type of libraries are supposed to be used by lots of [[program|programs]] but are not added to the executable at compile time.
