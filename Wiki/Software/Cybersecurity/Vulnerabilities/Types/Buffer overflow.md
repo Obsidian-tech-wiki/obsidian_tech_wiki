@@ -2,6 +2,7 @@
 authors:
   - Lewis Evans
 tags:
+  - Software
   - Cybersecurity
   - Vulnerabilities
   - Vulnerability_types
