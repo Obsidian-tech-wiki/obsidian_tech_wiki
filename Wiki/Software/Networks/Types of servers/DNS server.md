@@ -7,7 +7,7 @@ tags:
 ---
 *See main wiki page: [[Domain Name System]]*
 ___
-[[Domain Name System|DNS]] servers translate human-readable domain names into [[IP address|IP addresses ]]. They play a crucial role in routing [[internet]] traffic to the correct servers.
+[[Domain Name System|DNS]] servers translate human-readable domain names into [[IP address|IP addresses ]]. They play a crucial role in routing [[internet]] traffic to the correct [[Server|servers]].
 
 ___
 ## See also
