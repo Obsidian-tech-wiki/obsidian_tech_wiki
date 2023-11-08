@@ -1,6 +1,6 @@
 # Obsidian tech wiki
 What is obsidian tech wiki. It is a wikipedia like project about technology and computing made in obsidian.
-Wabnt to talk? Join the [Discord](https://discord.gg/67HzRWj9FG)!
+Want to talk? Join the [Discord](https://discord.gg/67HzRWj9FG)!
 
 ## Who can contribute
 Everyone! Just fork and edit, push and create a pull request. Providing that you follow the [[Guidelines]].
