@@ -3,7 +3,7 @@ What is obsidian tech wiki. It is a wikipedia like project about technology and 
 Want to talk? Join the [Discord](https://discord.gg/67HzRWj9FG)!
 
 ## Who can contribute
-Everyone! Just fork and edit, push and create a pull request. Providing that you follow the [[Guidelines]].
+Everyone can! Just fork and edit, push and create a pull request. Providing that you follow the [[Guidelines]].
 
 ## How do I read this wiki
 
