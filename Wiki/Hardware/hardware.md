@@ -6,7 +6,7 @@ tags:
 aliases:
   - hardware
 ---
-Hardware refers to the physical components of a [[computer]]. Hardware can contain [[software]] and most of the time needs [[software]] and [[Device driver|drivers]] to run. 
+**Hardware** refers to the physical components of a [[computer]]. Hardware can contain [[software]] and most of the time needs [[software]] and [[Device driver|drivers]] to run. 
 ## Common hardware components
 There are lots of types of hardware. Here are the most common types of [[hardware]].
 ### Main computer components
