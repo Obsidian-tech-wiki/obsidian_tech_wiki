@@ -24,3 +24,7 @@ Depreciated:
 [[DirectX 9]]
 [[DirectX 10]]
 [[WebGL]]
+
+---
+## See also
+- [[GPU]]
