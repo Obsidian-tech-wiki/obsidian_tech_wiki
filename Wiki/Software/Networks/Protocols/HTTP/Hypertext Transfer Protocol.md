@@ -73,3 +73,8 @@ HTTP sends a status code with every response. The status code is a 3 digit numbe
 - **3xx** Redirection
 - **4xx** Client errors
 - **5xx** Server errors
+
+---
+## See also
+- [[Secure Hypertext Transfer Protocol|HTTPS]]
+- [[Web server]]
