@@ -1,0 +1,70 @@
+---
+authors:
+  - Lewis Evans
+tags:
+  - Other
+  - Radio
+---
+**Radio** is a wireless communication technology that has played a significant role in the development of global communication. It it uses electromagnetic waves to transmit information, primarily in the form of sound.
+
+## Frequency range
+- [[Extremely low frequency]] - 3 Hz - 30 Hz
+- [[Super low frequency]] - 30 Hz - 300 Hz
+- [[Ultra low frequency]] - 300 Hz - 3,000 Hz
+- [[Very low frequency]] - 3 kHz - 30 kHz
+  - [[Time signal]]
+	- [[Amateur radio]]
+	- [[Radio Navigation]]
+		- [[Omega Navigation System]]
+  - [[Radio broadcasting]]
+- [[Low frequency]] - 30 kHz - 300 kHz
+    - [[Radio navigation]]
+        - [[LORAN]]
+        - [[Decca Navigator System]]
+        - [[Alpha Navigation System]]
+    - [[Amateur radio]]
+    - [[Amplitude modulation]]
+    - [[Time signal]]
+        - [[WWVB]]
+        - [[MSF]]
+        - [[JJY]]
+        - [[BPC]]
+        - [[DCF77]]
+        - [[RBU]]
+- [[Medium frequency]] - 300 kHz - 3,000 kHz
+    - [[Amplitude modulation]]
+    - [[Amateur radio]]
+    - [[Radio frequency identification]]
+- [[High frequency]] - 3 MHz - 30 MHz
+    - [[Amateur radio]]
+    - [[Shortwave radio]]
+    - [[Near field communication]]
+    - [[Citizens band radio]]
+- [[Very high frequency]] - 30 MHz - 300 MHz
+    - [[Radio control]]
+    - [[Frequency modulation]]
+    - [[Amateur radio]]
+- [[Ultra high frequency]] - 300 MHz - 3,000 MHz
+    - [[Television]]
+    - [[Cellular network]]
+    - [[GSM]]
+    - [[2G]]
+        - [[GPRS]]
+        - [[EDGE]]
+    - [[3G]]
+        - [[UMTS]]
+        - [[HSPA]]
+        - [[HSPA+]]
+    - [[4G]]
+- [[Super high frequency]] - 3 GHz - 30 GHz
+    - [[Cellular network]]
+    - [[4G]]
+    - [[5G]]
+    - [[Wi-Fi]]
+        - [[Wi-Fi 2.4 GHz]]
+        - [[Wi-Fi 5 GHz]]
+        - [[Wi-Fi 6 GHz]]
+    - [[Bluetooth]]
+    - [[Radio control]]
+- [[Extremely high frequency]] - 30 GHz - 300 GHz
+- [[Terahertz or tremendously high frequency]] - 300 GHz - 3,000 GHz
