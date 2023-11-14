@@ -28,7 +28,7 @@ A **computer** is a [[machine]] that is programmable and can compute a series of
 	- [[Laptop]]
 		- [[Gaming laptop]]
 		- [[Rugged laptop]]
-	- [[Mobile computers]]
+	- [[Mobile computer|Mobile computers]]
 		- [[Tablet]]
 		- [[Smartphone]]
 	- [[Smartwatch]]
