@@ -1,5 +1,5 @@
 ---
-authors: 
+authors:
   - Lewis Evans
 tags:
   - Software
@@ -7,12 +7,12 @@ tags:
 aliases:
   - assembly language
   - assembler language
-Filename extensions:
-  - .asm
-  - .s
-  - .inc
-  - .wla
-  - .SRC
+Filetype extensions:
+  - "[[asm|.asm]]"
+  - "[[s|.s]]"
+  - "[[inc|.inc]]"
+  - "[[wla|.wla]]"
+  - "[[SRC|.SRC]]"
 ---
 > [!warning]+ Stub
 > This wiki page is a **Stub**.
@@ -23,5 +23,4 @@ Filename extensions:
 **Assembly** language (Assembler language) is the lowest level language you can get before [[machine code]]. It is commonly abbreviated to ASM or asm. Each [[machine architecture]] has different types of assembly and instructions.
 
 ## Machine Code vs. Assembly Language
-
 While assembly language is more human-readable than [[machine code]], it's important to note that both are low-level languages. Machine code consists of binary instructions that are executed directly by the [[CPU]]. Assembly language is a textual representation of these machine code instructions.
