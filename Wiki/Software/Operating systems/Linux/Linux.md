@@ -1,10 +1,13 @@
 ---
-authors: 
+authors:
   - Lewis Evans
 tags:
   - Software
   - Operating_systems
   - Linux
+Programming language:
+  - "[[Assembly]]"
+  - "[[C]]"
 ---
 > [!info]+ Summarised
 > A [[UNIX]] based [[Operating system|operating system]] that is [[open source]]
