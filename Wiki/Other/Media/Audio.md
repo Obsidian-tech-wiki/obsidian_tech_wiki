@@ -4,6 +4,8 @@ authors:
 tags:
   - Other
   - Media
+aliases:
+  - audio
 ---
 **Audio** is a type of signal that is sent to a [[Speaker|speaker]] to create sound.
 ## Formats
