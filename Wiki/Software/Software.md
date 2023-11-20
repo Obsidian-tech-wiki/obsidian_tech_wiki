@@ -64,3 +64,8 @@ Software can come in different types for different parts of a computer system:
 - [[Embedded software]]
 - [[Open source software]]
 - [[Closed source software]]
+
+___
+## See also
+- [[Programming languages]]
+- [[Hardware]]
