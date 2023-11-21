@@ -6,6 +6,5 @@ tags:
     - File_types
 aliases:
     - .xvid
-    - Xvid Video
 ---
 **.xvid** ([[Xvid Video]]) A video codec designed for compressing video files with good visual quality.

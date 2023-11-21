@@ -6,6 +6,5 @@ tags:
     - File_types
 aliases:
     - .html
-    - HTML
 ---
 **.html** ([[HTML]]) HyperText Markup Language files used for creating and structuring web pages. HTML files define the structure and content of a webpage.

@@ -6,6 +6,5 @@ tags:
     - File_types
 aliases:
     - .hs
-    - Haskell
 ---
 **.hs** ([[Haskell]]) Haskell programming language source code files, known for strong typing and lazy evaluation.

@@ -6,6 +6,5 @@ tags:
     - File_types
 aliases:
     - .h
-    - Header
 ---
 **.h** ([[Header]]) Header files in C or C++ containing declarations and definitions used by other source files.

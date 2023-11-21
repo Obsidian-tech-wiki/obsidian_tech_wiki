@@ -6,6 +6,5 @@ tags:
     - File_types
 aliases:
     - .pyz
-    - Python Zip
 ---
 **.pyz** ([[Python Zip]]) A compressed archive of Python files, typically used for distributing Python applications.
