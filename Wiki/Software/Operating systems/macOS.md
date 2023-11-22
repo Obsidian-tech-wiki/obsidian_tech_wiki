@@ -13,7 +13,6 @@ Programming language:
 ---
 
 **macOS** is a [[Unix]]-based [[Operating system|operating system]] developed by [[Apple]] for use on their [[Macintosh]] line of computers.
-
 ## Versions
 - [[macOS 10.0]] - Cheetah
 - [[macOS 10.1]] - Puma
