@@ -7,7 +7,7 @@ aliases:
   - UI
   - user interface
 ---
-A **user interface** is the interface that the user interacts with. This can be done using the [[keyboard]] or [[mouse]]. Other input methods can be used on user interfaces. A user interface needs to have a output, this is commonly a [[Display]]
+A **user interface** (UI) is the interface that the user interacts with. This can be done using the [[keyboard]] or [[mouse]]. Other input methods can be used on user interfaces. A user interface needs to have a output, this is commonly a [[Display]]
 
 ## Types of user interfaces
 There are two main types of user interfaces:
