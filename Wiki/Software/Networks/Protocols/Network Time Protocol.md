@@ -9,4 +9,4 @@ aliases:
   - NTP
   - ntp
 ---
-**NTP** is used for time synchronisation on computer networks.
+**Network time protocol** (NTP) is used for time synchronisation on computer networks.
