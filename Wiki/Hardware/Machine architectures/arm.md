@@ -12,7 +12,7 @@ aliases:
 ARM, which stands for "Advanced [[reduced instruction set computer|RISC]] Machine," is a family of computer architectures known for their [[reduced instruction set computer|reduced instruction set computing]] (RISC) design. ARM processors are widely used in various devices, including smartphones, tablets, and embedded systems. The architecture has versions for both [[32-bit]] and [[64-bit]] processing. ARM machines can give the balance between performance and efficiency.
 
 ## Types of ARM chips
-- Apple - For list of apple silicone chips see: [[List of Apple silicone chips]]
+- Apple - For list of apple silicone chips see: [[List of Apple silicon chips]]
 	- A chips
 		- [[Apple A4|A4]]
 		- [[Apple A5|A5]]
