@@ -11,4 +11,4 @@ Programming language:
 Architecture:
   - x86
 ---
-`CHKDSK` checks the file system for errors and can repair them.
+`CHKDSK` (Check disk) checks the file system for errors and can repair them.
