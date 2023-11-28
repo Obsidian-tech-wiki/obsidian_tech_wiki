@@ -14,4 +14,4 @@ aliases:
 > **What is a stub?**
 > A stub is where the document is too short or has too little coverage on the topic
 
-Standard QWERTY or ergonomic layout of keys to input text and commands.
+A **Keyboard** has a set of keys that is used to enter text on to a computer. 
