@@ -1,0 +1,11 @@
+---
+authors:
+  - Lewis Evans
+tags:
+  - Software
+  - Programming
+  - C
+Programming language:
+  - "[[C]]"
+---
+`wctype.h` Provides functions for testing and mapping wide characters.

@@ -1,0 +1,11 @@
+---
+authors:
+  - Lewis Evans
+tags:
+  - Software
+  - Programming
+  - C
+Programming language:
+  - "[[C]]"
+---
+`stdio.h` Provides functions for performing input and output.
