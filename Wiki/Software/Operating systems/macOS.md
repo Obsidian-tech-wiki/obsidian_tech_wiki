@@ -10,9 +10,9 @@ Programming language:
   - "[[Assembly]]"
   - "[[Objective-C]]"
   - "[[swift]]"
+Source model: "[[Closed source]]"
 ---
-
-**macOS** is a [[Unix]]-based [[Operating system|operating system]] developed by [[Apple]] for use on their [[Macintosh]] line of computers.
+**macOS** is a [[Unix]]-based [[Operating system|operating system]] developed by [[Apple]] for use on their [[Macintosh]] line of computers. macOS is [[proprietary]] [[Software|software]] meaning that the code is not open sourced.
 ## Versions
 - [[macOS 10.0]] - Cheetah
 - [[macOS 10.1]] - Puma
