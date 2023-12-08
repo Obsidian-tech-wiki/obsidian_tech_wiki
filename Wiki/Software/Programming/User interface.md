@@ -1,5 +1,5 @@
 ---
-authors: 
+authors:
   - Lewis Evans
 tags:
   - Hardware
