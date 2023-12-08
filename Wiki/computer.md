@@ -1,10 +1,11 @@
 ---
-authors: 
+authors:
   - Lewis Evans
-tags:
+tags: 
 aliases:
   - computer
   - computers
+Description: A computer is a machine that is programmable and can run instructions.
 ---
 A **computer** is a [[machine]] that is programmable and can compute a series of instructions. Computers can carry out a set of instructions this is called a [[program]]. 
 
