@@ -13,6 +13,7 @@ Filetype extensions:
   - "[[inc|.inc]]"
   - "[[wla|.wla]]"
   - "[[SRC|.SRC]]"
+Description: A low level language that is as close to machine code.
 ---
 **Assembly** language (Assembler language) is the lowest level language you can get before [[machine code]]. It is commonly abbreviated to ASM or asm. Each [[machine architecture]] has different types of assembly and instructions.
 
