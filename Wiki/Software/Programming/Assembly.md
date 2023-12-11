@@ -33,3 +33,8 @@ _start:
     mov al, [my_variable]  ; Move the value at my_variable into the AL register
     ; Additional code would follow...
 ```
+
+---
+## See also
+- [[Machine code]]
+- [[Machine architecture]]
