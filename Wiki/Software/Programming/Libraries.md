@@ -14,7 +14,7 @@ aliases:
 
 This type of libraries are supposed to be used by lots of [[program|programs]] but are not added to the executable at compile time.
 These libraries are usually in a central location.
-E.G: `/usr/local/lib` on [[UNIX]] systems
+E.G: `/usr/local/lib` on most [[UNIX]] systems
 
 The standard file extensions are:
 	[[Microsoft windows|Windows]]: [[dll|.dll]]
