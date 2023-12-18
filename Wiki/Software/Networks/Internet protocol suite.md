@@ -17,10 +17,10 @@ The internet protocol suite provides lots of protocols including:
 
 ## Internet protocol suite layers
 The internet protocol suite is split into 4 main layers:
-- Application layer
-- Transport layer
-- Internet layer
-- Link layer
+- [[#Application layer]]
+- [[#Transport layer]]
+- [[#Internet layer]]
+- [[#Link layer]]
 
 ### Application layer
 The application layer is a layer that provides services to the user. It is the layer that the user interacts with.
