@@ -7,7 +7,7 @@ tags:
 aliases:
   - internet protocol suite
 ---
-The internet protocol suite is a set of protocols that the [[Internet|internet]] uses to communicate between other computers and [[Network|networks]].
+The **internet protocol suite** is a set of protocols that the [[Internet|internet]] uses to communicate between other computers and [[Network|networks]].
 
 ## Types of internet protocols
 The internet protocol suite provides lots of protocols including:
