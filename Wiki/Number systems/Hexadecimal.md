@@ -1,11 +1,11 @@
 ---
 authors:
   - Lewis Evans
-tags: 
+tags:
+  - Number_systems
 aliases:
   - hexadecimal
 ---
-
 **Hexadecimal** is a base 16 counting system that is often used in computing.
 
 It makes it easier to read binary numbers by grouping them into 4 bits. It goes from `0` to `9` then `A` to `F`.

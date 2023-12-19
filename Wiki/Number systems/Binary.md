@@ -4,6 +4,8 @@ authors:
   - Lewis Evans
 aliases:
   - binary
+tags:
+  - Number_systems
 ---
 **Binary** is a base 2 counting system that is often used in  computing.
 
