@@ -12,15 +12,13 @@ There are lots of types of hardware. Here are the most common types of [[hardwar
 ### Main computer components
 - [[CPU]]
 - [[RAM]]
-- [[Computer data storage]]
+- [[Computer data storage|Storage]]
 - [[IO]]
 - [[Network card]]
 - [[GPU]]
-
 ### Input devices
 *Main wiki page: [[Input devices]]*
 A input device allows you to input data to a [[computer]] system. Here are some examples:
-
 - [[Keyboard]]
 - [[Mouse]]
 - [[Touchpad]]
@@ -46,7 +44,6 @@ A input device allows you to input data to a [[computer]] system. Here are some 
 ### Output devices
 *Main wiki page: [[Output devices]]*
 A output device allows you to see data that the [[computer]] is sending out. Here are some examples:
-
 - [[Display]]
 - [[Speaker]]
 - [[Haptic]]
