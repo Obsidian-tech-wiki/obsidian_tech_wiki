@@ -21,7 +21,7 @@ There are lots of types of hardware. Here are the most common types of [[hardwar
 *Main wiki page: [[Input devices]]*
 A input device allows you to input data to a [[computer]] system. Here are some examples:
 
- [[Keyboard]]
+- [[Keyboard]]
 - [[Mouse]]
 - [[Touchpad]]
 - [[Trackball]]
