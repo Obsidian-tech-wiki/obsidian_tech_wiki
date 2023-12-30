@@ -11,8 +11,8 @@ aliases:
 ---
 iPadOS is a [[Operating system|operating system]] developed by [[Apple]].
 ## Versions
-- [[IpadOS 13]]
-- [[IpadOS 14]]
-- [[IpadOS 15]]
-- [[IpadOS 16]]
-- [[IpadOS 17]]
+- [[iPadOS 13]]
+- [[iPadOS 14]]
+- [[iPadOS 15]]
+- [[iPadOS 16]]
+- [[iPadOS 17]]
