@@ -39,6 +39,7 @@ A **computer** is a [[machine]] that is programmable and can compute a series of
 ## Computer hardware
 *Main wiki page: [[hardware]]*
 Computers have hardware to run the software.
+
 ### Main computer components
 - [[CPU]]
 	- [[Accumulator]]
@@ -233,7 +234,7 @@ In order to write software you need to use a programming language. There are lot
 - [[Scala]]
 - [[Haskell]]
 - [[Clojure]]
-- [[Erlang]]
+- [[Erlang]
 - [[Elixir]]
 - [[Lisp]]
 - [[Prolog]]
@@ -245,7 +246,6 @@ In order to write software you need to use a programming language. There are lot
 - [[BASIC]]
 
 ### Software
-
 - [[Web browser]]
 	- [[Firefox]]
 	- [[Google Chrome]]
