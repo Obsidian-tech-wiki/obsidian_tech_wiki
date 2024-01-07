@@ -9,4 +9,4 @@ aliases:
   - RDP
   - rdp
 ---
-RDP is used for remote desktop connections, allowing users to access and control a remote computer.
+**Remote desktop protocol** (RDP) is used for remote desktop connections, allowing users to access and control a remote computer.
