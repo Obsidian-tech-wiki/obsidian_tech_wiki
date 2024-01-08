@@ -31,8 +31,26 @@ Description: A high level interpreted programming language
 
 ## Example
 
+Hello world in Python
 ```python
 print("Hello World")
+```
+
+Adding two numbers in Python from user input
+```python
+num1 = input("Enter first number: ")
+num2 = input("Enter second number: ")
+print(num1 + num2)
+```
+
+If and else statement in Python
+```python
+num1 = input("Enter first number: ")
+num2 = input("Enter second number: ")
+if num1 > num2:
+    print(num1 + " is greater than " + num2)
+else:
+    print(num2 + " is greater than " + num1)
 ```
 
 ## Related articles
