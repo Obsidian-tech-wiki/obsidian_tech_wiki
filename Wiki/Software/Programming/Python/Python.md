@@ -60,6 +60,10 @@ else:
 - [[Operators in Python|Python operators]]
 - [[Python control flow|Python control flow]]
 - [[Creating and using functions in Python|Python functions]]
+- [[Creating and using classes in Python|Python classes]]
+- [[Modules in Python|Python modules]]
+- [[Installing Python]]
+- [[pip]]
 
 ## External links
 - [Python website](https://www.python.org/)
