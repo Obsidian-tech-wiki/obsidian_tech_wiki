@@ -2,6 +2,7 @@
 authors:
   - Lewis Evans
 tags:
+  - Other
   - Number_systems
 aliases:
   - hexadecimal

@@ -5,6 +5,7 @@ authors:
 aliases:
   - binary
 tags:
+  - "#Other"
   - Number_systems
 ---
 **Binary** is a base 2 counting system that is often used in  computing.
