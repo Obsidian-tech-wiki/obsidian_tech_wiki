@@ -1,5 +1,5 @@
 ---
-authors: 
+authors:
   - Lewis Evans
 tags:
   - Hardware
@@ -7,7 +7,11 @@ tags:
 aliases:
   - secondary memory
   - secondary storage
+  - Secondary storage
 ---
+*Redirected from: **Secondary storage**
+<hr>
+
 **Secondary memory** or secondary storage is non volatile. It is used to store programs and data. There are many types of secondary storage. Over the years we have change what secondary storage methods we use.
 
 Not all computers require secondary storage. Computers such as [[embedded computers]] may not need secondary storage and can rely off [[ROM]].
