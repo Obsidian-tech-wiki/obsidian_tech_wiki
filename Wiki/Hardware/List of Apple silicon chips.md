@@ -33,6 +33,9 @@ tags:
 		- [[Apple M2 Pro|M2 Pro]]
 		- [[Apple M2 Max|M2 Max]]
 		- [[Apple M2 Ultra|Apple M2 Ultra]]
+	- [[Apple M3|M3]]
+		- [[Apple M3 Pro|M3 Pro]]
+		- [[Apple M3 Max|M3 Max]]
 - R chips
 	- [[Apple R1|R1]]
 - S chips

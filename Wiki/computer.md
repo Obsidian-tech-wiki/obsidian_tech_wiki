@@ -234,7 +234,7 @@ In order to write software you need to use a programming language. There are lot
 - [[Scala]]
 - [[Haskell]]
 - [[Clojure]]
-- [[Erlang]
+- [[Erlang]]
 - [[Elixir]]
 - [[Lisp]]
 - [[Prolog]]
