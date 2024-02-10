@@ -1,11 +1,12 @@
 ---
-authors: 
+authors:
   - AE
   - Lewis Evans
 tags:
   - Display
   - Hardware
   - IO
+  - Output
 aliases:
   - QLED
   - Quantum dot displays

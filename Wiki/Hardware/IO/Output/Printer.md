@@ -1,9 +1,10 @@
 ---
-authors: 
+authors:
   - Lewis Evans
 tags:
   - Hardware
   - IO
+  - Output
 aliases:
   - printer
 ---

@@ -5,6 +5,7 @@ authors:
 tags:
   - IO
   - Hardware
+  - Output
 aliases:
   - speaker
   - speakers

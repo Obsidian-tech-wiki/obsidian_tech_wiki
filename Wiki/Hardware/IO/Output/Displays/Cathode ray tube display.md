@@ -1,11 +1,12 @@
 ---
-authors: 
+authors:
   - AE
   - Lewis Evans
 tags:
   - Hardware
   - IO
   - Display
+  - Output
 aliases:
   - CRT
   - cathode ray tube
