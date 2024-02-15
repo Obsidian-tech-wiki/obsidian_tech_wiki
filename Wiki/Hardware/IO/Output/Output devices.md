@@ -11,7 +11,6 @@ aliases:
   - computer output
 ---
 A **output device** allows the [[computer]] to send signals out the computer and to give a result to the user or to another computer
-
 ## Types of output devices
 - [[Display|Monitor]]
 	- [[Cathode ray tube display]]
@@ -58,3 +57,23 @@ A **output device** allows the [[computer]] to send signals out the computer and
 	- [[3D Printer]]
 - [[Light]]
 - [[Projector]]
+
+Output devices can also be in the form of ports [^1]
+- [[Ethernet]]
+- [[USB]]
+- [[Thunderbolt]]
+- [[Audio jack]]
+- [[HDMI]]
+- [[DisplayPort]]
+- [[Serial port]]
+- [[Parallel port]]
+- [[FireWire]]
+- [[PS/2 port]]
+- [[eSATA]]
+- [[VGA]]
+- [[DVI]]
+---
+## See also
+- [[Input devices|Input devices]]
+## References
+[^1]: [Wikipedia - Output Device](https://en.wikipedia.org/wiki/Output_device)
