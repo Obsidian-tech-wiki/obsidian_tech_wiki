@@ -8,3 +8,8 @@ aliases:
     - .s
 ---
 **.s** ([[Assembly Source]]) Assembly source code files, similar to .asm, containing human-readable instructions for a specific computer architecture.
+
+---
+## See also
+- [[Assembly]]
+- [[Machine code]]
