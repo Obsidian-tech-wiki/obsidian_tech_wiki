@@ -1,5 +1,5 @@
 ---
-authors: 
+authors:
   - Lewis Evans
 tags:
   - Hardware
@@ -7,6 +7,11 @@ tags:
   - Input
 aliases:
   - barcode scanner
+  - barcode reader
+  - Barcode readers
+  - Barcode reader
+  - barcode scanners
+  - Barcode scanners
 ---
 > [!warning]+ Stub
 > This wiki page is a **Stub**.
