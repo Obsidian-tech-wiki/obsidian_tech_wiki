@@ -7,4 +7,4 @@ tags:
 aliases:
     - .m
 ---
-**.m** ([[Objective-C]]) Objective-C programming language source code files, often used in macOS and iOS development.
+**.m** ([[Objective-C]]) Objective-C programming language source code files, often used in [[macOS]] and [[iOS]] development.
