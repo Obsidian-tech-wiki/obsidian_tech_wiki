@@ -8,8 +8,10 @@ tags:
 aliases:
   - variables in python
 ---
-Python uses variables to store data for other functions. Variables in python can be changed and have any [[Python data types|data type]].
+>[!note]+ Subsection
+> This page is a subsection of [[Python]].
 
+Python uses variables to store data for other functions. Variables in python can be changed and have any [[Python data types|data type]].
 ## Example
 To create a variable you specify the name and the data to be put in the variable.
 ```python

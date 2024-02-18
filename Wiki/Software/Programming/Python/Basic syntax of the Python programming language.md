@@ -9,9 +9,9 @@ aliases:
   - python syntax
   - Python syntax
 ---
-*See main article for this topic: **[[Python]]**
+>[!note]+ Subsection
+> This page is a subsection of [[Python]].
 
-<hr>
 Python has a simple programming syntax that is easy to learn. Python uses indentation to define code blocks instead of curly brackets like other languages like [[C]] and [[C++]]. 
 
 ## Contents
