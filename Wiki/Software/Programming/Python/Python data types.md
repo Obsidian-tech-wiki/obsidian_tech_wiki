@@ -8,7 +8,6 @@ tags:
 aliases:
   - python data types
 ---
-
 Python has many different [[Data types|data types]]. These are used to store different types of data.
 
 ## Types of data
