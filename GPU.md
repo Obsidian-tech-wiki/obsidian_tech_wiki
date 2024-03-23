@@ -11,8 +11,7 @@ aliases:
   - GPU's
   - gpu's
 ---
-The **Graphics processing unit** is a main part of a [[Computer|computer]] that processes all the graphics on the computer system. It can speed up all the graphical and media processing on the computer. CPU's can be also used for non graphical calculations.
-
+The **Graphics processing unit** is a main part of a [[Computer|computer]] that processes all the graphics on the computer system. It can speed up all the graphical and media processing on the computer. CPU's can be also used for non graphical calculations. The GPU can output data to the [[Display]].
 ## Parts of a GPU
 The GPU contains the following parts: [^1]
 - [[Bus interface]]
