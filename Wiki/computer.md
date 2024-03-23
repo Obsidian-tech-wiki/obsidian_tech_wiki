@@ -55,6 +55,8 @@ Computers have hardware to run the software.
 	- [[SSD]]
 	- [[Optical disc drive|ODD]] 
 	- [[Tape]]
+- [[GPU]]
+- [[Motherboard]]
 
 ### Computer architecture
 *Main wiki page: [[Machine architecture]]*
