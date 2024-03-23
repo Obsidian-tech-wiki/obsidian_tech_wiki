@@ -15,3 +15,8 @@ The **BIOS** (basic input output system) is the [[Firmware|firmware]] before the
 ---
 ## References
 - Key Date source: [Wikipedia - BIOS](https://en.wikipedia.org/wiki/BIOS#cite_note-1)
+## See also
+- [[UEFI]]
+- [[Firmware]]
+- [[ACPI]]
+- [[IOCS]]
