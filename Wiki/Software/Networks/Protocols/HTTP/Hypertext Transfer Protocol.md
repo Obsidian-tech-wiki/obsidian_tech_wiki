@@ -1,5 +1,5 @@
 ---
-authors: 
+authors:
   - Lewis Evans
 tags:
   - Software
@@ -7,6 +7,7 @@ tags:
 aliases:
   - hyper text transfer protocol
   - HTTP
+Key date: 1991-01-01
 ---
 The **Hyper text transfer protocol** (HTTP) is a application layer protocol of the [[Internet protocol suite|internet protocol suite]]. HTTP is one of the main protocols that is used on the [[World wide web|world wide web]].  
 ## HTTP Versions
