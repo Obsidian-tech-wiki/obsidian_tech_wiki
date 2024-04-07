@@ -8,7 +8,7 @@ tags:
 aliases:
   - printer
 ---
-Printers are used to create hard copies of most commonly digital documents. They come in various forms, including inkjet, laser, and even 3D printers which print objects.
+**Printers** are used to create hard copies of most commonly digital documents. They come in various forms, including inkjet, laser, and even 3D printers which print objects.
 
 ## Types
 - [[Laser Printer]]
