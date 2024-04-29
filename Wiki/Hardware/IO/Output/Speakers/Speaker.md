@@ -1,7 +1,7 @@
 ---
 authors:
   - AE
-  - 0x4248
+  - "0x4248"
 tags:
   - IO
   - Hardware

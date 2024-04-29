@@ -1,6 +1,6 @@
 ---
 authors: 
-  - 0x4248
+  - "0x4248"
 tags:
   - Software
   - Types_of_servers

@@ -1,6 +1,6 @@
 ---
 authors:
-  - 0x4248
+  - "0x4248"
 tags:
   - Hardware
 aliases:
@@ -18,7 +18,7 @@ There are two main types of user interfaces:
 ### Command line interface
 
 ![[CLI.png|500]]
-0x4248 `Windows XP Command line interface`
+"0x4248" `Windows XP Command line interface`
 
 A command line interface allows the user to interact with the [[computer]] using text and a keyboard. The user would enter text into the command line and run the command. The [[computer]] would then put a output on to the screen.
 
@@ -33,4 +33,4 @@ There have been many command line interface [[Wiki/Software/Operating systems/op
 A graphical user interface allows you to interact with the [[computer]] using a mouser and keyboard. The [[Wiki/Software/Operating systems/operating system]] creates windows on the screen.
 
 ![[GUI.png|500]]
-0x4248 `Windows XP Desktop with windows`
+"0x4248" `Windows XP Desktop with windows`

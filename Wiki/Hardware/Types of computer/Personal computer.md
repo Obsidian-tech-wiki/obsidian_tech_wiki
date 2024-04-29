@@ -1,6 +1,6 @@
 ---
 authors:
-  - 0x4248
+  - "0x4248"
 tags:
   - Hardware
   - Types_of_computer
