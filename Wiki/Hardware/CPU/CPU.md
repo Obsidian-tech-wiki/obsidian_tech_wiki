@@ -10,6 +10,7 @@ The CPU is the **central processing unit**. It runs the It programs and performs
 Over the years CPU's have become much faster and can compute more tasks at once. Their main purposes and operation hasn't changed.
 
 ## CPU Registers
+**This section includes a** *[[CPU registers|linked article]]*
 ![[CPU registers]]
 
 ## Types of CPU Architecture
