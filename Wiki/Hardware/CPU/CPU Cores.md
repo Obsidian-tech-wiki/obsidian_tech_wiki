@@ -3,10 +3,10 @@ authors:
   - "0x4248"
 tags:
   - Hardware
+  - CPU
 aliases:
   - cpu cores
-Description:
-  A way of increasing the performance of a CPU by adding more processing units.
+Description: A way of increasing the performance of a CPU by adding more processing units.
 ---
 **CPU cores** are the individual processing units within a CPU. The more cores a CPU has, the more instructions it can process at once. This can increase the performance of the CPU, but it can also increase the power consumption of the CPU.
 

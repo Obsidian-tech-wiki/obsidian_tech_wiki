@@ -1,8 +1,9 @@
 ---
-authors: 
+authors:
   - "0x4248"
 tags:
   - Hardware
+  - CPU
 aliases:
   - CISC
 ---

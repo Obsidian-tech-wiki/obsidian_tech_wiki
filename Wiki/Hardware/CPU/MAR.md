@@ -3,6 +3,7 @@ authors:
   - "0x4248"
 tags:
   - Hardware
+  - CPU
 aliases:
   - Memory address register
   - memory address register

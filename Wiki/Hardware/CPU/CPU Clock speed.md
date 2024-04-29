@@ -3,10 +3,10 @@ authors:
   - "0x4248"
 tags:
   - Hardware
+  - CPU
 aliases:
   - cpu clock speed
-Description: 
-  The rate at which a CPU can process instructions.
+Description: The rate at which a CPU can process instructions.
 ---
 **CPU clock speed** is the speed at which a CPU can process instructions. It is measured in Hertz (Hz), which is the number of cycles per second. The higher the clock speed, the more instructions the CPU can process per second.
 

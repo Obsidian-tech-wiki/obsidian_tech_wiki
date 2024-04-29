@@ -3,6 +3,7 @@ authors:
   - "0x4248"
 tags:
   - Hardware
+  - CPU
 aliases:
   - cpu cache
 Description: A type of memory for the central processing unit.
