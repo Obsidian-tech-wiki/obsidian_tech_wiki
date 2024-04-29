@@ -5,7 +5,7 @@ tags:
   - Hardware
   - CPU
 ---
-The CPU has a set of registers that quickly store a small that is either 8 bits, 32 bits or 64 bits. This depends on the [[instruction set]]. Different [[CPU]]'s can also have different registers. Here are the different types of data registers you can find on a [[CPU]]:
+A **CPU Register** is a fast memory address that holds values up to the system bits (8,16,32,64 bits).  This depends on the [[instruction set]]. Different [[CPU]]'s can also have different registers. Here are the different types of data registers you can find on a [[CPU]]:
 - Data registers
 - Address registers 
 - General-purpose registers
