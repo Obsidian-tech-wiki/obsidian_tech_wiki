@@ -14,4 +14,4 @@ aliases:
 > **What is a stub?**
 > A stub is where the document is too short or has too little coverage on the topic
 
-Detects and interprets hand or body movements, used for various applications, including gaming and interactive presentations.
+A **gesture recognition device** detects and interprets hand or body movements, used for various applications, including gaming and interactive presentations.
