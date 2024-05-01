@@ -6,6 +6,7 @@ tags:
 aliases:
   - RISC
 ---
+
 A [[machine architecture]] [[instruction set]] that has reduced instructions so they can be computed much faster within the CPU without needing to use [[memory]] as often.
 
 A RISC [[instruction set]] has the ability to execute one instruction per block
