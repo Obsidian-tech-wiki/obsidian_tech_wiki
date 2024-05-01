@@ -182,7 +182,7 @@ Computers have different input and output devices. The most common are [[keyboar
 Computers need software to run. Software is a set of instructions that the computer can run. Software can be [[open source]] or [[proprietary]].
 
 ### Operating systems
-*Main wiki page: [[Operating system_]]*
+*Main wiki page: [[Operating system]]*
 
 A operating system is a set of software that manages the computer hardware and software. The operating system is the most important software on a computer. The operating system is the first software that runs when the computer is turned on. The operating system is the software that the user interacts with.
 
