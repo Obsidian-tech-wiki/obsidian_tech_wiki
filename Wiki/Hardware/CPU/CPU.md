@@ -31,6 +31,7 @@ A CPU can be either [[reduced instruction set computer|RISC]] or [[complex instr
 		- [[AMD FX]]
 		- [[AMD Ryzen]]
 	- [[Intel]]
+		- [[Intel 8068]]
 		- [[Intel Atom]]
 		- [[Intel Celeron]]
 		- [[Intel Core]]
