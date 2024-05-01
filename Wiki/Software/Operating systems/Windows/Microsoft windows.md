@@ -23,7 +23,7 @@ Architecture:
   - "[[arm]]"
 Source model: "[[Closed source]]"
 ---
-Windows is a [[Operating system|operating system]] developed by [[Microsoft]]. It uses a [[graphical user interface]]. The [[Operating system|operating system]] is designed to be user friendly and easy to use. It is a [[multi-tasking]] operating system. It is most commonly used on [[Personal computer|personal computers]]
+Windows is a [[Operating system_|operating system]] developed by [[Microsoft]]. It uses a [[graphical user interface]]. The [[Operating system_|operating system]] is designed to be user friendly and easy to use. It is a [[multi-tasking]] operating system. It is most commonly used on [[Personal computer|personal computers]]
 
 ## Versions
 Windows has been trough several versions over the years.

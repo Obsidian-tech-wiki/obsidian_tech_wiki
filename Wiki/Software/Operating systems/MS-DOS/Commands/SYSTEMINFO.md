@@ -11,4 +11,4 @@ Programming language:
 Architecture:
   - x86
 ---
-`SYSTEMINFO` provides detailed information about the computer's hardware and software, including the [[operating system]] version and system manufacturer.
+`SYSTEMINFO` provides detailed information about the computer's hardware and software, including the [[Operating system_]] version and system manufacturer.
