@@ -59,7 +59,7 @@ A embedded operating system runs on a small [[computer]] that is specialised for
 - [[RTOS]]
 ## Kernel
 Main wiki page: [[Operating system kernel]]
-![[Operating system.excalidraw|400]]
+
 A operating system kernel talks to the hardware and applications. It has complete control of the [[CPU]], [[RAM]], [[Input devices|input devices]] and [[output devices]]
 
 ___
