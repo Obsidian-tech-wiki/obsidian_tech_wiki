@@ -7,7 +7,7 @@
 		{"id":"e5013f0163c66aa3","type":"text","text":"## Standard library","x":386,"y":-80,"width":250,"height":110,"color":"5"},
 		{"id":"8bcc0ee1f3e93bd5","type":"text","text":"## External Library's ","x":386,"y":50,"width":250,"height":90,"color":"5"},
 		{"id":"3531caa3ee880a99","type":"text","text":"## Executable","x":46,"y":240,"width":250,"height":60,"color":"4"},
-		{"id":"c715790b8f827c7b","type":"text","text":"## OS specific Machine code","x":46,"y":45,"width":250,"height":100,"color":"4"}
+		{"id":"c715790b8f827c7b","type":"text","text":"## OS specific Machine code","x":46,"y":45,"width":250,"height":135,"color":"4"}
 	],
 	"edges":[
 		{"id":"1080b4e442481141","fromNode":"b6eaf347ff2a3375","fromSide":"bottom","toNode":"c715790b8f827c7b","toSide":"top","color":"6"},

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"4529f1bfe9efe024","type":"text","text":"## Hardware","x":-400,"y":-30,"width":250,"height":60},
+		{"id":"a74f728449ac5019","type":"text","text":"## Software","x":160,"y":-30,"width":250,"height":60},
+		{"id":"413e798220786de2","x":-120,"y":-30,"width":250,"height":60,"color":"4","type":"text","text":"## Kernel"}
+	],
+	"edges":[
+		{"id":"0962132a4bdd2d90","fromNode":"4529f1bfe9efe024","fromSide":"right","toNode":"413e798220786de2","toSide":"left"},
+		{"id":"8fb70dcbf7ca8f3a","fromNode":"413e798220786de2","fromSide":"right","toNode":"a74f728449ac5019","toSide":"left"},
+		{"id":"4bcde8162cd987d9","fromNode":"a74f728449ac5019","fromSide":"left","toNode":"413e798220786de2","toSide":"right"},
+		{"id":"0589ee0db9a4cfd9","fromNode":"413e798220786de2","fromSide":"left","toNode":"4529f1bfe9efe024","toSide":"right"}
+	]
+}
