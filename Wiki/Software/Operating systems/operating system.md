@@ -14,13 +14,10 @@ A **operating system** (OS) is [[software]] that manages the [[hardware]] or the
 ## Types of operating systems
 ### Single tasking and multi tasking system
 A single tasking system can only run one program at one time while a multi tasking operating system allows more than one [[program]] to run. This can be done using time sharing where the [[CPU]] time is shared across the processors. 
-
 ### Single-user and multi-user
 Single user operating system have no ways to differentiate between users but may allow you to multitask. A multi-user operating system allows you to have several users to control a OS and a admin can manage the permissions.
-
 ### Real-time
-A real time operating system is a system that needs to be able to process data in real time. This can be used if a system is reliant on data that has to be processed quickly.
-
+A real time operating system is a system that needs to be able to process data in real time. This can be used if a system is reliant on data that has to be processed quickly. [[RTOS]] is an example of a real time operating system and is open source.
 ### Embedded operating system
 A embedded operating system runs on a small [[computer]] that is specialised for a small machine or component. These operating systems have limited functions and are programmed onto the [[ROM]] of the system.
 
@@ -59,7 +56,7 @@ A embedded operating system runs on a small [[computer]] that is specialised for
 - [[ReactOS]]
 - [[AmigaOS]]
 - [[OS2]]
-
+- [[RTOS]]
 ## Kernel
 Main wiki page: [[Operating system kernel]]
 ![[Operating system.excalidraw|400]]
