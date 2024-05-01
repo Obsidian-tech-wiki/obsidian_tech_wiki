@@ -1,0 +1,42 @@
+---
+authors:
+  - "0x4248"
+tags:
+  - Software
+  - Operating_systems
+---
+- [[UNIX]]
+	- [[BSD]]
+		- [[FreeBSD]]
+		- [[NetBSD]]
+		- [[OpenBSD]]
+	- [[Linux]]
+		- [[Red Hat]]
+		- [[Debian]]
+		- [[Ubuntu]]
+		- [[Android]]
+		- [[ChromeOS]]
+		- [[ChromiumOS]]
+		- [[Linux mint]]
+	- [[macOS]]
+- [[Microsoft Windows]]
+	- [[MS-DOS]]
+	- [[Windows 1.x]]
+	- [[Windows 2.x]]
+	- [[Windows 3.x]]
+	- [[Windows NT]]
+	- [[Windows 95]]
+	- [[Windows 98]]
+	- [[Windows NT kernel]]
+	- [[Windows 2000]]
+	- [[Windows ME]]
+	- [[Windows XP]]
+	- [[Windows Vista]]
+	- [[Windows 7]]
+	- [[Windows 8.x]]
+	- [[Windows 10]]
+	- [[Windows 11]]
+- [[ReactOS]]
+- [[AmigaOS]]
+- [[OS2]]
+- [[RTOS]]
