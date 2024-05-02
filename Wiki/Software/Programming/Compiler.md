@@ -90,4 +90,4 @@ int main(){
 }
 ```
 
-When this [[program]] is compiled it will always return 3. To reduce the amount of commands being run on the [[CPU]] we can calculate results and remove unnecessary code. This will also reduce the size of the [[binary]].
+When this [[program]] is compiled it will always return 3. To reduce the amount of commands being run on the [[CPU]] we can calculate results and remove unnecessary code. This will also reduce the size of the [[Binary]].

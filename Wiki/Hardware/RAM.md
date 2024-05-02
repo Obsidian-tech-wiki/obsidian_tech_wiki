@@ -16,7 +16,7 @@ aliases:
 
 When the [[Computer]] is turned off the contents of the RAM is lost this makes ram volatile. Non volatile RAM has been made.
 
-## RAM Versions
+## RAM Versions
 RAM has been made in many different versions over the years.
 - [[SDRAM]]
 - [[DDR]]

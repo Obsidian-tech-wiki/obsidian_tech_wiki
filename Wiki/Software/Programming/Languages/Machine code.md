@@ -8,4 +8,4 @@ tags:
 aliases:
   - machine code
 ---
-The [[binary]] used to tell the [[CPU]] what to do and in what order.
+The [[Binary]] used to tell the [[CPU]] what to do and in what order.
