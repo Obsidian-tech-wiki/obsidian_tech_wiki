@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"fbab85d7c5b99e79","x":-125,"y":-120,"width":265,"height":50,"color":"3","type":"text","text":"<h2 style=\"text-align:center;\">Bytecode</h2>"},
+		{"id":"7dbbe9c9c015bc4a","x":-125,"y":-20,"width":265,"height":50,"color":"1","type":"text","text":"<h2 style=\"text-align:center;\">Machine code</h2>"},
+		{"id":"b59ffeaa5ffe6866","x":-125,"y":-220,"width":265,"height":50,"color":"4","type":"text","text":"<h2 style=\"text-align:center;\">Source code</h2>"}
+	],
+	"edges":[
+		{"id":"4a645d4735fe346c","fromNode":"b59ffeaa5ffe6866","fromSide":"bottom","toNode":"fbab85d7c5b99e79","toSide":"top"},
+		{"id":"7f266f9fc37616a7","fromNode":"fbab85d7c5b99e79","fromSide":"bottom","toNode":"7dbbe9c9c015bc4a","toSide":"top"}
+	]
+}
