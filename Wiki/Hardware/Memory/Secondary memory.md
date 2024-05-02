@@ -38,7 +38,7 @@ ___
 - [[Memory]]
 - [[Primary memory]]
 - [[Computer data storage]]
-- [[Hardware_]]
+- [[Hardware]]
 
 ## References
 - [BBC](https://www.bbc.co.uk/bitesize/guides/zdjqmsg/revision/1#:~:text=Secondary%20storage%20is%20non%2Dvolatile,the%20computer%20was%20switched%20off.)

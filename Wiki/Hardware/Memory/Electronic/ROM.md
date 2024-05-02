@@ -36,6 +36,6 @@ A ROM that can be erased using electricity and can be programmed using electrici
 ___
 ## See also
 - [[Memory]]
-- [[Hardware_]]
+- [[Hardware]]
 - [[Flash memory]]
 - [[Computer data storage]]

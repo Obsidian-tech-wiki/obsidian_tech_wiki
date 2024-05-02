@@ -37,7 +37,7 @@ A **computer** is a [[machine]] that is programmable and can compute a series of
 - [[Microcontroller]]
 
 ## Computer hardware
-*Main wiki page: [[Hardware_]]*
+*Main wiki page: [[Hardware]]*
 Computers have hardware to run the software.
 
 ### Main computer components

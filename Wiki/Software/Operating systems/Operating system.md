@@ -15,7 +15,7 @@ aliases:
 
 <hr>
 
-A **operating system** (OS) is [[software]] that manages the [[Hardware_]] or the [[computer]]. It also provides common services for the operating system. The operating also manages the [[memory]] of the computer. A operating system would usually have a [[Operating system kernel|kernel]] that talks directly to the [[Hardware_]]
+A **operating system** (OS) is [[software]] that manages the [[Hardware]] or the [[computer]]. It also provides common services for the operating system. The operating also manages the [[memory]] of the computer. A operating system would usually have a [[Operating system kernel|kernel]] that talks directly to the [[Hardware]]
 
 ## Types of operating systems
 ### Single tasking and multi tasking system
@@ -64,7 +64,7 @@ ___
 
 ## See also
 - [[Kernel]]
-- [[Hardware_]]
+- [[Hardware]]
 - [[Software]]
 - [[Linux]]
 - [[UNIX]]
