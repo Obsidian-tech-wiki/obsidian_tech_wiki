@@ -6,7 +6,7 @@ tags:
 aliases:
   - hardware
 ---
-**Hardware** refers to the physical components of a [[computer]]. Hardware can contain [[software]] and most of the time needs [[software]] and [[Device driver|drivers]] to run. 
+**Hardware** refers to the physical components of a [[Computer]]. Hardware can contain [[software]] and most of the time needs [[software]] and [[Device driver|drivers]] to run. 
 ## Common hardware components
 There are lots of types of hardware. Here are the most common types of [[Hardware]].
 ### Main computer components
@@ -19,7 +19,7 @@ There are lots of types of hardware. Here are the most common types of [[Hardwar
 - [[Motherboard]]
 ### Input devices
 *Main wiki page: [[Input devices]]*
-A input device allows you to input data to a [[computer]] system. Here are some examples:
+A input device allows you to input data to a [[Computer]] system. Here are some examples:
 - [[Keyboard]]
 - [[Mouse]]
 - [[Touchpad]]
@@ -44,7 +44,7 @@ A input device allows you to input data to a [[computer]] system. Here are some 
 - [[MIDI controller]]
 ### Output devices
 *Main wiki page: [[Output devices]]*
-A output device allows you to see data that the [[computer]] is sending out. Here are some examples:
+A output device allows you to see data that the [[Computer]] is sending out. Here are some examples:
 - [[Display]]
 - [[Speaker]]
 - [[Haptic]]

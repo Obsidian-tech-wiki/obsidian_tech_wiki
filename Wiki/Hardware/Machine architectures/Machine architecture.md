@@ -7,9 +7,9 @@ aliases:
   - architecture
   - machine architecture
 ---
-Computer architecture is the structure of the [[computer]] system. A [[computer]] architecture may include the [[instruction set]] or the logic design.
+Computer architecture is the structure of the [[Computer]] system. A [[Computer]] architecture may include the [[instruction set]] or the logic design.
 
-When designing a [[computer]] architecture there needs to be some design goals:
+When designing a [[Computer]] architecture there needs to be some design goals:
 - Performance
 - Power efficiency 
 ## Common computer architectures
@@ -34,4 +34,4 @@ ___
 - [[Machine code]]
 - [[instruction set]]
 - [[CPU]]
-- [[computer]]
+- [[Computer]]

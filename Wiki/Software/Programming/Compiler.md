@@ -10,7 +10,7 @@ aliases:
   - compiled
   - compiler
 ---
-A **compiler** turns [[source code]] into [[Machine code]] so a [[computer]] can run it
+A **compiler** turns [[source code]] into [[Machine code]] so a [[Computer]] can run it
 
 When you want to compile [[source code]] into [[Machine code]] you will need to translate the [[source code]] into [[assembly|assembly code]] and then into [[Machine code]].
 ![[Compiler.png|500]]

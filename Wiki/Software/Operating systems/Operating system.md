@@ -15,7 +15,7 @@ aliases:
 
 <hr>
 
-A **operating system** (OS) is [[software]] that manages the [[Hardware]] or the [[computer]]. It also provides common services for the operating system. The operating also manages the [[memory]] of the computer. A operating system would usually have a [[Operating system kernel|kernel]] that talks directly to the [[Hardware]]
+A **operating system** (OS) is [[software]] that manages the [[Hardware]] or the [[Computer]]. It also provides common services for the operating system. The operating also manages the [[memory]] of the computer. A operating system would usually have a [[Operating system kernel|kernel]] that talks directly to the [[Hardware]]
 
 ## Types of operating systems
 ### Single tasking and multi tasking system
@@ -25,7 +25,7 @@ Single user operating system have no ways to differentiate between users but may
 ### Real-time
 A real time operating system is a system that needs to be able to process data in real time. This can be used if a system is reliant on data that has to be processed quickly. [[RTOS]] is an example of a real time operating system and is open source.
 ### Embedded operating system
-A embedded operating system runs on a small [[computer]] that is specialised for a small machine or component. These operating systems have limited functions and are programmed onto the [[ROM]] of the system.
+A embedded operating system runs on a small [[Computer]] that is specialised for a small machine or component. These operating systems have limited functions and are programmed onto the [[ROM]] of the system.
 
 ## Functions of a operating system
 The operating system has many functions and features but most operating systems have these key features:

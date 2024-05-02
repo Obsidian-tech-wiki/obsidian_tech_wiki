@@ -11,7 +11,7 @@ aliases:
   - monitor
   - screen
 ---
-A **display** is used by the [[computer]] to output information to the user. This can be done using several methods.
+A **display** is used by the [[Computer]] to output information to the user. This can be done using several methods.
 ## Types of displays
 There are various types of displays that have been used over the years. Here are some displays:
 
