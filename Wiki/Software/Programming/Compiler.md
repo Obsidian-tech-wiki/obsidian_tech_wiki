@@ -10,11 +10,8 @@ aliases:
   - compiled
   - compiler
 ---
-A **compiler** turns [[source code]] into [[Machine code]] so a [[Computer]] can run it
-
-When you want to compile [[source code]] into [[Machine code]] you will need to translate the [[source code]] into [[assembly|assembly code]] and then into [[Machine code]].
+A **compiler** turns [[source code]] into [[Machine code|machine code]] so a [[Computer|computer]] can run it. When you want to compile [[source code]] into [[Machine code|machine code]] you will need to translate the [[source code]] into [[assembly|assembly code]] and then into [[Machine code|machine code]].
 ![[Compiler.png|500]]
-[[Compiler.canvas|Image source]]
 
 When a program is compiled it is only compiled for that [[machine architecture]] and is hard to read as a human.
 ## Example
@@ -90,4 +87,4 @@ int main(){
 }
 ```
 
-When this [[program]] is compiled it will always return 3. To reduce the amount of commands being run on the [[CPU]] we can calculate results and remove unnecessary code. This will also reduce the size of the [[Binary]].
+When this [[program]] is compiled it will always return `3`. To reduce the amount of commands being run on the [[CPU]] we can calculate results and remove unnecessary code. This will also reduce the size of the [[Binary]]. This can also reduce the size of the program since there are less instructions. 
