@@ -20,6 +20,21 @@ Description: A low level language that is as close to machine code.
 ## Machine Code vs Assembly Language
 While assembly language is more human-readable than [[Machine code|machine code]], it's important to note that both are low-level languages. Machine code consists of [[Binary|binary]] instructions that are executed directly by the [[CPU]]. Assembly language is a textual representation of these machine code instructions.
 
+## Little man computer
+Little man computer is a instruction set made up to help people learn assembly.
+### Instructions
+
+| Code  | Instruction      | Description                                                                 |
+| ----- | ---------------- | --------------------------------------------------------------------------- |
+| `ADD` | `ADD`            | Add the contents of the memory address to the [[Accumulator\|accumulator]]. |
+| `SUB` | `SUBTRACT`       | Subtract the contents of the memory address to the accumulator.             |
+| `LDA` | `LOAD`           | Store a value from the accumulator into a given memory address.             |
+| `BRA` | `BRANCH`         | Use the address as for the next instruction.                                |
+| `BRZ` | `BRANCH IF ZERO` | Branch if the accumulator is zero of positive.                              |
+| `INP` | `INPUT`          | Input into the accumulator                                                  |
+| `OUT` | `OUTPUT`         | Output into the contents of the accumulator                                 |
+| `HLT` | `HALT`           | Stop execution                                                              |
+| `DAT` | `DATA`           | Used to indicate a location with data                                       |
 ## Example of assembly code
 Here is a example of [[x86_64]] assembly code.
 ```
