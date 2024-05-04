@@ -9,4 +9,7 @@ aliases:
   - VNC
   - vnc
 ---
-VNC is another remote desktop protocol that provides a way to control a remote computer's desktop.
+**Redirected from:** *VNC*
+<hr>
+
+**Virtual network computing** (VNC) is another remote desktop protocol that provides a way to control a remote computer's desktop.
