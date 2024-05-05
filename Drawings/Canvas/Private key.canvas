@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"f72464f8102a3d78","x":-240,"y":-120,"width":540,"height":190,"color":"1","type":"group","label":"Data being sent"},
+		{"id":"4258dcf694274920","type":"text","text":"<p style=\"text-align:center\">Text (Encrypted)</p>\n","x":-80,"y":0,"width":240,"height":50,"color":"1"},
+		{"id":"3928258e999b3843","type":"text","text":"<p style=\"text-align:center\">Private key</p>\n","x":-80,"y":-100,"width":240,"height":50,"color":"1"},
+		{"id":"dd1f1b4a60a7482e","x":-400,"y":0,"width":145,"height":50,"color":"4","type":"text","text":"<p style=\"text-align:center\">Text</p>\n"},
+		{"id":"da6a6a9c00096e73","type":"text","text":"<p style=\"text-align:center\">Text</p>\n","x":320,"y":0,"width":145,"height":50,"color":"4"}
+	],
+	"edges":[
+		{"id":"73be434ffc8f6387","fromNode":"dd1f1b4a60a7482e","fromSide":"right","toNode":"4258dcf694274920","toSide":"left","color":"4","label":"Encryption"},
+		{"id":"ad3ca8b0df16d611","fromNode":"4258dcf694274920","fromSide":"right","toNode":"da6a6a9c00096e73","toSide":"left","color":"4","label":"Decryption"},
+		{"id":"b48210d68f870ff2","fromNode":"dd1f1b4a60a7482e","fromSide":"right","toNode":"3928258e999b3843","toSide":"left"},
+		{"id":"a45d087c82a595f9","fromNode":"3928258e999b3843","fromSide":"right","toNode":"da6a6a9c00096e73","toSide":"left"}
+	]
+}
