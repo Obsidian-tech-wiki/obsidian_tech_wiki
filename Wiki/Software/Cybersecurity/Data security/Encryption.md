@@ -5,6 +5,8 @@ tags:
   - Software
   - Cybersecurity
   - Data_Security
+aliases:
+  - encryption
 ---
 **Encryption** is where text is turned into a format that cannot be understood without it being decrypted first. The original data is known as plaintext and the encrypted format is called cypher text. 
 
