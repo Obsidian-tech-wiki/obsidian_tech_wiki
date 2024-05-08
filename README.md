@@ -14,9 +14,9 @@ Download obsidan from [here](https://obsidian.md/). Then clone this repo and ope
 - Home tab
 
 ## License
-You can use the information in this wiki but it would be nice if you could credit the wiki like this:
+Content in the wiki is licensed under the Public Domain (CC-0) unless stated in the page. Attachments may have copyright and other restrictions but all files in `/drawings` are under the Public Domain (CC-0)
 
-Example
+If you use the information from this wiki it is not required to attribute but is appreciated. Here is an example:
 
 ```
 Information provided by [Obsidian tech wiki](https://github.com/Obsidian-tech-wiki/obsidian_tech_wiki)
