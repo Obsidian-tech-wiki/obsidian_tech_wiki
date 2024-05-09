@@ -9,4 +9,9 @@ aliases:
   - wan
   - WAN
 ---
-A **Wide area network** WAN spans larger geographical areas and often connects LANs over long distances. The [[Internet|internet]] is the largest and most well-known WAN. Another examples are like office buildings that contain their own LAN networks connected together.
+A **Wide area network** WAN spans larger geographical areas and often connects [[Local Area Network|local area networks]] over long distances. The [[Internet|internet]] is the largest and most well-known WAN. Another examples are like office buildings that contain their own LAN networks connected together.
+
+---
+## See also
+- [[Local Area Network]]
+- [[Network]]

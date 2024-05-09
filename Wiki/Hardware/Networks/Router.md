@@ -4,6 +4,10 @@ authors:
 tags:
   - Hardware
   - Networks
+aliases:
+  - router
+  - Routers
+  - routers
 ---
 A **router** is a networking device that forwards data between computer networks. It operates at the OSI model's network layer and makes decisions based on [[IP address|IP addresses]]
 

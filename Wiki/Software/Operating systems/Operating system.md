@@ -54,7 +54,9 @@ A operating system kernel talks to the hardware and applications. It has complet
 
 ___
 ## Series Info
-<p style="text-align:center;margin:0;">Operating Systems</p>
+<div style="background-color:#FFFFFF10;border-radius:4px;">
+	<p style="text-align:center;margin:0;">Operating Systems</p>
+</div>
 
 | Name                          | Links                                                                                                                   |
 | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
