@@ -64,3 +64,8 @@ For example: Doctor - Patient. A dentist will be related to several patients.
 A many to many relationship is when there are many rows linked to many other rows in a other table.
 
 For example: Costumer account - Product. A single account can order many products on to their account.
+
+### Entity relationship modelling
+Relationships in a database can be modelled to show the relationship between the entities.
+![[Entity relationship modelling]]
+
