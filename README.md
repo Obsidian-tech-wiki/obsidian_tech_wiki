@@ -1,13 +1,11 @@
 # Obsidian tech wiki
 What is obsidian tech wiki. It is a wikipedia like project about technology and computing made in obsidian.
-Want to talk? Join the [Discord](https://discord.gg/67HzRWj9FG)!
 
 ## Who can contribute
 Everyone can! Just fork and edit, push and create a pull request. Providing that you follow the [[Guidelines]].
 
 ## How do I read this wiki
-
-Download obsidan from [here](https://obsidian.md/). Then clone this repo and open the folder in obsidian. You will need to install the following plugins:
+Download obsidian from [here](https://obsidian.md/). Then clone this repo and open the folder in obsidian. You will need to install the following plugins:
 - Excalidraw
 - Kanban
 - Vault statistics
