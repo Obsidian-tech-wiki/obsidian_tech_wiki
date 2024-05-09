@@ -12,7 +12,6 @@ aliases:
   - web navigator
 Description: A web browser is a software application for accessing information on the World Wide Web.
 ---
-
 *Redirected from the following terms: <strong>internet browser, internet communicator, web navigator</strong>*
 
 > [!info]+ Series
