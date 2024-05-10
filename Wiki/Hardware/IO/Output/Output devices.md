@@ -10,7 +10,7 @@ aliases:
   - output devices
   - computer output
 ---
-A **output device** allows the [[Computer]] to send signals out the computer and to give a result to the user or to another computer
+A **output device** allows the [[Computer|computer]] to send signals out the computer and to give a result to the user or to another computer
 ## Types of output devices
 - [[Display|Monitor]]
 	- [[Cathode ray tube display]]

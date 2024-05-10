@@ -3,6 +3,9 @@ authors:
   - "0x4248"
 tags:
   - Disambiguation
+aliases:
+  - computer
+  - computers
 ---
 *The term:* **Computer** *May refer to?*
 <hr>

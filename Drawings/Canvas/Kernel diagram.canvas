@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"f3ddba70c78b006f","type":"text","text":"<p style=\"text-align:center;\">Software</p>","x":-125,"y":-30,"width":625,"height":60,"color":"1"},
+		{"id":"e2a16699de960bd5","type":"text","text":"<p style=\"text-align:center;\">Memory</p>","x":40,"y":340,"width":140,"height":60,"color":"4"},
+		{"id":"5170ef2952aaf487","type":"text","text":"<p style=\"text-align:center;\">CPU</p>","x":-125,"y":340,"width":145,"height":60,"color":"4"},
+		{"id":"2b227ed4be57ff8b","type":"text","text":"<p style=\"text-align:center;\">Inputs</p>","x":200,"y":340,"width":140,"height":60,"color":"4"},
+		{"id":"52cae10f6c8000c3","type":"text","text":"<p style=\"text-align:center;\">Outputs</p>","x":360,"y":340,"width":140,"height":60,"color":"4"},
+		{"id":"1b6c31f6b69e87eb","type":"text","text":"<p style=\"text-align:center;\">Kernel</p>","x":-125,"y":100,"width":625,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"832d5dd749ff0f59","fromNode":"f3ddba70c78b006f","fromSide":"bottom","toNode":"1b6c31f6b69e87eb","toSide":"top"},
+		{"id":"48124d69eac66613","fromNode":"1b6c31f6b69e87eb","fromSide":"bottom","toNode":"5170ef2952aaf487","toSide":"top"},
+		{"id":"1731c2ddecd220e8","fromNode":"1b6c31f6b69e87eb","fromSide":"bottom","toNode":"e2a16699de960bd5","toSide":"top"},
+		{"id":"cabda2091e49de77","fromNode":"1b6c31f6b69e87eb","fromSide":"bottom","toNode":"2b227ed4be57ff8b","toSide":"top"},
+		{"id":"39b99f9ee0c11946","fromNode":"1b6c31f6b69e87eb","fromSide":"bottom","toNode":"52cae10f6c8000c3","toSide":"top"}
+	]
+}

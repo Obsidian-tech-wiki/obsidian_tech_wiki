@@ -13,7 +13,6 @@ aliases:
   - opera GX
 Description: A web browser developed by Opera Software for Windows, macOS, and Linux operating systems.
 ---
-
 *Redirected from the following terms: <strong>opera browser, opera web browser, opreaGX</strong> <span style="color:#666">(See Opera GX section)</span>, <strong>opera GX</strong> <span style="color:#666">(See Opera GX section)</span>*
 <hr>
 
