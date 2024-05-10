@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"ed44130672f69a0b","x":-260,"y":-300,"width":220,"height":410,"color":"6","type":"group","label":"Computer A"},
+		{"id":"ca19f88762c0f2e4","x":460,"y":-300,"width":220,"height":410,"color":"6","type":"group","label":"Computer B"},
+		{"id":"7e430f010b01661b","x":-20,"y":20,"width":460,"height":90,"color":"4","type":"group","label":"Routers and over the internet"},
+		{"id":"ad5b666a86838d30","x":-240,"y":-200,"width":180,"height":50,"color":"5","type":"text","text":"<p style=\"text-align:center;margin:0px;\">Application</p>"},
+		{"id":"a5da08a3ca6ac704","type":"text","text":"<p style=\"text-align:center;margin:0px;\">Transport</p>","x":-240,"y":-120,"width":180,"height":50,"color":"5"},
+		{"id":"630e9916784ca18f","type":"text","text":"<p style=\"text-align:center;margin:0px;\">Internet</p>","x":-240,"y":-40,"width":180,"height":50,"color":"5"},
+		{"id":"5d0a4e4e07bd7dbf","type":"text","text":"<p style=\"text-align:center;margin:0px;\">Link</p>","x":-240,"y":40,"width":180,"height":50,"color":"5"},
+		{"id":"c12248b7052ff0fa","type":"text","text":"<p style=\"text-align:center;margin:0px;\">Computer A</p>","x":-240,"y":-280,"width":180,"height":50,"color":"6"},
+		{"id":"651557964ba02da6","type":"text","text":"<p style=\"text-align:center;margin:0px;\">Application</p>","x":480,"y":-200,"width":180,"height":50,"color":"5"},
+		{"id":"89625b92a4347354","type":"text","text":"<p style=\"text-align:center;margin:0px;\">Transport</p>","x":480,"y":-120,"width":180,"height":50,"color":"5"},
+		{"id":"b3dc4a427b1c2906","type":"text","text":"<p style=\"text-align:center;margin:0px;\">Internet</p>","x":480,"y":-40,"width":180,"height":50,"color":"5"},
+		{"id":"ea43c6d4cc460414","type":"text","text":"<p style=\"text-align:center;margin:0px;\">Link</p>","x":480,"y":40,"width":180,"height":50,"color":"5"},
+		{"id":"2dd6fb57209ec14a","type":"text","text":"<p style=\"text-align:center;margin:0px;\">Computer B</p>","x":480,"y":-280,"width":180,"height":50,"color":"6"},
+		{"id":"79d06213b04792b2","type":"text","text":"<p style=\"text-align:center;margin:0px;\">Link</p>","x":0,"y":40,"width":180,"height":50,"color":"4"},
+		{"id":"bdbd71362b1c3c4b","type":"text","text":"<p style=\"text-align:center;margin:0px;\">Link</p>","x":240,"y":40,"width":180,"height":50,"color":"4"}
+	],
+	"edges":[
+		{"id":"c05c032f3a74bc0b","fromNode":"c12248b7052ff0fa","fromSide":"bottom","toNode":"ad5b666a86838d30","toSide":"top"},
+		{"id":"d15967fef2353c91","fromNode":"ad5b666a86838d30","fromSide":"bottom","toNode":"a5da08a3ca6ac704","toSide":"top"},
+		{"id":"a80438e5430fe1e0","fromNode":"a5da08a3ca6ac704","fromSide":"bottom","toNode":"630e9916784ca18f","toSide":"top"},
+		{"id":"0ee9a1fbe4b5b576","fromNode":"630e9916784ca18f","fromSide":"bottom","toNode":"5d0a4e4e07bd7dbf","toSide":"top"},
+		{"id":"5ecc82d693bb89be","fromNode":"5d0a4e4e07bd7dbf","fromSide":"right","toNode":"79d06213b04792b2","toSide":"left"},
+		{"id":"908b6d0e42da6a0e","fromNode":"79d06213b04792b2","fromSide":"right","toNode":"bdbd71362b1c3c4b","toSide":"left"},
+		{"id":"c75749af71496aa0","fromNode":"bdbd71362b1c3c4b","fromSide":"right","toNode":"ea43c6d4cc460414","toSide":"left"},
+		{"id":"f1fb5a0bb28d60fa","fromNode":"ea43c6d4cc460414","fromSide":"top","toNode":"b3dc4a427b1c2906","toSide":"bottom"},
+		{"id":"db46c66a96ea1249","fromNode":"b3dc4a427b1c2906","fromSide":"top","toNode":"89625b92a4347354","toSide":"bottom"},
+		{"id":"97eaa243017a5430","fromNode":"89625b92a4347354","fromSide":"top","toNode":"651557964ba02da6","toSide":"bottom"},
+		{"id":"180571e397d2d571","fromNode":"651557964ba02da6","fromSide":"top","toNode":"2dd6fb57209ec14a","toSide":"bottom"}
+	]
+}

@@ -27,6 +27,8 @@ The internet protocol suite is split into 4 main layers:
 - [[#Internet layer]]
 - [[#Link layer]]
 
+When a device is talking to another device all the layers in the internet protocol stack will be used.
+![[Protocol stack flow.png]]
 ### Application layer
 The application layer is a layer that provides services to the user. It is the layer that the user interacts with.
 
