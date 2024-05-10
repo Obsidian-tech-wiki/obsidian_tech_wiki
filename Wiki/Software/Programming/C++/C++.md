@@ -19,3 +19,4 @@ Filetype extensions:
   - "[[hpp|.h++]]"
 ---
 **C++** is a general-purpose programming language created by Bjarne Stroustrup as an extension of the [[Wiki/Software/Programming/C/C|C]] programming language. It is a [[Compiler|compiled]] programming language.
+
