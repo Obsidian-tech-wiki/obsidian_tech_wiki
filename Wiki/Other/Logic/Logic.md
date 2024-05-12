@@ -20,3 +20,7 @@ if (condition) {
 ```
 
 In programs like the one above, the computer makes a decision based on the condition given to it. If the condition is true, it will execute the code in the `if` block, otherwise it will execute the code in the `else` block.
+
+---
+## See also
+- [[Logic gates]]
