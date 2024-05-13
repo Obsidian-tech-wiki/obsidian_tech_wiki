@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"c851080a670c865d","x":-125,"y":-30,"width":250,"height":60,"color":"4","type":"text","text":"<h2 style=\"text-align:center\">WAP</h2>"},
+		{"id":"e35eb4e75630d453","type":"text","text":"<h2 style=\"text-align:center\">Device</h2>","x":-125,"y":120,"width":250,"height":60,"color":"5"},
+		{"id":"521a71b9f2def7c9","type":"text","text":"<h2 style=\"text-align:center\">Device</h2>","x":-480,"y":-30,"width":250,"height":60,"color":"5"},
+		{"id":"094ba7282f15c095","type":"text","text":"<h2 style=\"text-align:center\">Device</h2>","x":240,"y":-30,"width":250,"height":60,"color":"5"},
+		{"id":"91b5939e75d0e301","type":"text","text":"<h2 style=\"text-align:center\">Router</h2>","x":-125,"y":-140,"width":250,"height":60,"color":"4"}
+	],
+	"edges":[
+		{"id":"0bb3593b2c322b2f","fromNode":"e35eb4e75630d453","fromSide":"top","toNode":"c851080a670c865d","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"0bb76f4e531d110f","fromNode":"521a71b9f2def7c9","fromSide":"right","toNode":"c851080a670c865d","toSide":"left","fromEnd":"arrow"},
+		{"id":"a71b65fe22b064d6","fromNode":"094ba7282f15c095","fromSide":"left","toNode":"c851080a670c865d","toSide":"right","fromEnd":"arrow"},
+		{"id":"00ebbf5cfdbdc81c","fromNode":"c851080a670c865d","fromSide":"top","toNode":"91b5939e75d0e301","toSide":"bottom","fromEnd":"arrow"}
+	]
+}

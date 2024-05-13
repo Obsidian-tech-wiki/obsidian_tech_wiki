@@ -45,6 +45,18 @@ To convert binary to decimal you can use a binary table:
 
 You add the numbers in the table that have a 1 in the binary number.
 
+## Binary shifts
+A binary shift is where you move the binary to the left or right.
+### Example
+Lets say I have the following binary `10100101` and I shift left 2 I would end up with `00101001`.
+
+|          | 128 | 64  | 32  | 16  | 8   | 4   | 2   | 1   |
+| -------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| No shift | 1   | 0   | 1   | 0   | 0   | 1   | 0   | 1   |
+| Left 2   | 0   | 0   | 1   | 0   | 1   | 0   | 0   | 1   |
+| Left 4   | 0   | 0   | 0   | 0   | 1   | 0   | 1   | 0   |
+
+
 ---
 ## See also
 - [[Hexadecimal]]

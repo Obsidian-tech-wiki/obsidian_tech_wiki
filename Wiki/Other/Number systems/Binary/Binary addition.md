@@ -8,8 +8,12 @@ tags:
 **Binary addition** is an arithmetic operation where two [[Binary|binary]] numbers are added together.
 
 ## Rules
-
-- **0 + 0 = 0**
-- **0 + 1 = 1**
-- **1 + 0 = 1**
-- **1 + 1 = (1)0** (carry 1 to the next column)
+$$
+\begin{align}
+0 + 0 = 0 \\
+0 + 1 = 1 \\
+1 + 0 = 1 \\
+1 + 1 = ^{1}0 \\
+\end{align}
+$$
+If there is a carry add 1 to the next column

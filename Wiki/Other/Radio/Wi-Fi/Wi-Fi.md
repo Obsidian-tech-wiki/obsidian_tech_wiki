@@ -4,10 +4,14 @@ authors:
 tags:
   - Other
   - Radio
-Radio band: "[[Super high frequency]]"
+Radio band:
+  - "[[Super high frequency]]"
+aliases:
+  - wi-fi
+  - wifi
+  - WiFi
 ---
-**Wi-Fi** short for **Wireless Fidelity**, is a wireless technology that allows devices to exchange data wirelessly using radio waves. It has become an integral part of modern communication, providing wireless connectivity in homes, businesses and public spaces.
-
+**Wi-Fi** short for **Wireless Fidelity**, is a wireless technology that allows devices to exchange data wirelessly using radio waves. It has become an integral part of modern communication, providing wireless connectivity in homes, businesses and public spaces. To connect to a Wi-Fi network you will need a [[Wireless access point|wireless access point]].
 ## Wi-Fi Versions
 - [[802.11]] - Wi-Fi 0
 - [[802.11b]] - Wi-Fi 1
