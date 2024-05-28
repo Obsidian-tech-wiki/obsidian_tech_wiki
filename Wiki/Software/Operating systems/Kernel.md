@@ -5,7 +5,7 @@ tags:
   - Software
   - Operating_systems
 ---
-A **kernel** is a key part of a [[Operating system|operating system]] and plays the important role of controlling the [[Hardware|hardware]] and [[Software|software]].
+A **kernel** is a key part of a [[Wiki/Software/Operating systems/Operating system|operating system]] and plays the important role of controlling the [[Hardware|hardware]] and [[Software|software]].
 ![[Kernel diagram.png]]
 ## Types
 There are five types of kernels:

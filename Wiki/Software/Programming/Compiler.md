@@ -26,6 +26,10 @@ int main() {
 	return x + y;
 }
 ```
+<div>
+	<!-- TEMPLATE: CC-0 Code license -->
+	<p style="color:gray;margin:0;">Code shown licensed under the <strong>public domain</strong> (CC-0) <a style="color:gray;" href="https://creativecommons.org/public-domain/cc0/">More info</a></p>
+</div>
 
 Assembly:
 
@@ -41,7 +45,10 @@ main:
 	pop rbp
 	ret
 ```
-
+<div>
+	<!-- TEMPLATE: CC-0 Code license -->
+	<p style="color:gray;margin:0;">Code shown licensed under the <strong>public domain</strong> (CC-0) <a style="color:gray;" href="https://creativecommons.org/public-domain/cc0/">More info</a></p>
+</div>
 ## Features
 Compilers often come with a set of features that can improve development or help developers debug their code.
 ### Code optimisation
@@ -63,7 +70,7 @@ int main(){
 }
 ```
 
-When this [[program]] is compiled it will always return `3`. To reduce the amount of commands being run on the [[CPU]] we can calculate results and remove unnecessary code. This will also reduce the size of the [[Binary|binary]]. This can also reduce the size of the program since there are less instructions. 
+When this [[Program]] is compiled it will always return `3`. To reduce the amount of commands being run on the [[CPU]] we can calculate results and remove unnecessary code. This will also reduce the size of the [[Binary|binary]]. This can also reduce the size of the program since there are less instructions. 
 
 ### Assembly output mode
 Compilers can output in assembly mode to allow developers see how their code looks on a lower level scale. In GCC if you supply the `-S` tag it will output an assembly file.

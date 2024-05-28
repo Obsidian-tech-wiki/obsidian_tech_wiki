@@ -7,8 +7,11 @@ aliases:
   - computer
   - computers
 ---
-*The term:* **Computer** *May refer to?*
-<hr>
+<div>
+	<!--TEMPLATE: Disambiguation-->
+	<i>The term:</i> <strong>Computer</strong> <i>May refer to?</i>
+	<hr>
+</div>
 
 ## Hardware
 - [[Personal computer]]
@@ -17,6 +20,6 @@ aliases:
 - [[Computer Graphics|Computer graphics]]
 - [[Mobile computer]]
 ## Software
-- [[program|Computer program]]
+- [[Program|Computer program]]
 ## Networking
 - [[Computer network]]

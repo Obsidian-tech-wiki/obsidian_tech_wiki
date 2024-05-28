@@ -11,7 +11,7 @@ aliases:
 ---
 *Redirected from:* **OS**
 > [!info]+ Series
-> This article is part of a series on [[Operating system|operating systems]]. See the #Operating_systems tag or [[Operating system#Series Info|Series Info]]
+> This article is part of a series on [[Wiki/Software/Operating systems/Operating system|operating systems]]. See the #Operating_systems tag or [[Wiki/Software/Operating systems/Operating system#Series Info|Series Info]]
 
 <hr>
 
@@ -19,7 +19,7 @@ A **operating system** (OS) is [[software]] that manages the [[Hardware]] or the
 
 ## Types of operating systems
 ### Single tasking and multi tasking system
-A single tasking system can only run one program at one time while a multi tasking operating system allows more than one [[program]] to run. This can be done using time sharing where the [[CPU]] time is shared across the processors. 
+A single tasking system can only run one program at one time while a multi tasking operating system allows more than one [[Program]] to run. This can be done using time sharing where the [[CPU]] time is shared across the processors. 
  
 Single user operating system have no ways to differentiate between users but may allow you to multitask. A multi-user operating system allows you to have several users to control a OS and a admin can manage the permissions.
 ### Real-time

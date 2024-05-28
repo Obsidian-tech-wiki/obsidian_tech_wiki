@@ -9,7 +9,7 @@ aliases:
 **Software** is anything on a [[Computer|computer]] that is not physical or [[Hardware|hardware]]. Software allows the computer to run correctly and provides functionality to a computer. There are different types of software.
 ## Types
 Software can come in different types for different parts of a computer system:
-- [[Operating system]]
+- [[Wiki/Software/Operating systems/Operating system]]
 	- [[Device driver]]
 		- [[Computer service|Services]]
 	- [[System software]]

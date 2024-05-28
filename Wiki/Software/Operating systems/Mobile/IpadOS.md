@@ -9,7 +9,7 @@ aliases:
   - ipados
   - ipadOS
 ---
-iPadOS is a [[Operating system|operating system]] developed by [[Apple]].
+iPadOS is a [[Wiki/Software/Operating systems/Operating system|operating system]] developed by [[Apple]].
 ## Versions
 - [[iPadOS 13]]
 - [[iPadOS 14]]

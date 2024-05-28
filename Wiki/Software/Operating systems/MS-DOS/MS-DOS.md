@@ -11,7 +11,7 @@ Architecture:
   - x86
 Source model: Closed source except versions 1 and 2
 ---
-**MS-DOS** (Microsoft Disk Operating System) is an [[Operating system]] for [[Personal computer|personal computers]] mostly developed by [[Microsoft]].  Is was a [[command line]] interface but [[Microsoft windows|windows]] made a [[User interface|user interface]] for the system. In MS-DOS you use [[Floppy disk|floppy disks]] to manage files and move data.
+**MS-DOS** (Microsoft Disk Operating System) is an [[Wiki/Software/Operating systems/Operating system]] for [[Personal computer|personal computers]] mostly developed by [[Microsoft]].  Is was a [[command line]] interface but [[Microsoft windows|windows]] made a [[User interface|user interface]] for the system. In MS-DOS you use [[Floppy disk|floppy disks]] to manage files and move data.
 
 Several [[Microsoft windows|windows]] versions ran on top of MS-DOS such as [[Windows 1.x]], [[Windows 2.x]], [[Windows 3.x]],[[Windows 95]] and [[Windows 1.x]].
 ## Versions

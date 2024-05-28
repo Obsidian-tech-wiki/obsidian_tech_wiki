@@ -8,7 +8,7 @@ aliases:
   - computer memory
   - computer storage
 ---
-Computer **memory** is where the computer stores data or [[program|programs]]. Computers can store data temporary or permanently depending on the type of [[Hardware]] used in the [[Computer]]
+Computer **memory** is where the computer stores data or [[Program|programs]]. Computers can store data temporary or permanently depending on the type of [[Hardware]] used in the [[Computer]]
 
 Computer memory has improved over the years. They now have higher capacity and faster read write capabilities. 
 
