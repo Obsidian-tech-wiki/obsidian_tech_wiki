@@ -11,9 +11,14 @@ aliases:
 ---
 **Tape** storage is a magnetic storage technology that uses magnetic tape to store digital data. It's known for its high storage capacity and cost-effectiveness, making it suitable for long-term archival and backup purposes. Tape drives can have storage capacities exceeding 100 TB. It is commonly used for storing [[audio]] and [[video]], it was also used for storing [[software]].
 
-| Specification         | Value       |
-|-----------------------|-------------|
-| Storage Capacity       | > 100 TB    |
+| Specification    | Value    |
+| ---------------- | -------- |
+| Storage Capacity | > 100 TB |
+## Advantages
+Tape is known for its high storage capacity and cost-effectiveness. It is suitable for long-term archival and backup purposes.
+
+## Disadvantages
+Tape can be slower than other storage technologies like [[hard disk drives]] and [[solid-state drives]]. It is also more susceptible to damage from environmental factors like heat and humidity.
 
 ## Types of tape
 - Audio
