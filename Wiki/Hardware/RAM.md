@@ -7,10 +7,7 @@ aliases:
   - random access memory
 ---
 > [!warning]+ Stub
-> This wiki page is a **Stub**.
-> #Stub 
-> **What is a stub?**
-> A stub is where the document is too short or has too little coverage on the topic
+> This article page is a #Stub which means it is too short or has too little coverage on the topic. But you can help by submitting a pull request with a longer version of this article.
 
 **RAM** refers to **random access memory** and is a form of [[Primary memory]] that can be read and written from the [[CPU]]. The RAM usually stores data that is being used and the [[Program|programs]] that are being used. RAM is often very high speed memory and has a clock speed on it. This clock speed can vary between different models.
 

@@ -15,10 +15,7 @@ aliases:
 Description: A web browser developed by Microsoft for Windows, macOS, iOS, and Android operating systems.
 ---
 > [!warning]+ Stub
-> This wiki page is a **Stub**.
-> #Stub 
-> **What is a stub?**
-> A stub is where the document is too short or has too little coverage on the topic
+> This article page is a #Stub which means it is too short or has too little coverage on the topic. But you can help by submitting a pull request with a longer version of this article.
 
 *Redirected from the following terms: <strong>Microsoft Edge browser and Edge</strong>*
 <hr>

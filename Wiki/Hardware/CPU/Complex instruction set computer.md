@@ -7,7 +7,10 @@ tags:
 aliases:
   - CISC
 ---
-CISC is a [[instruction set]] where it can perform numerous low-level instructions. CISC makes the program size smaller by reducing the amount of instructions needed to reform a task but comes at a cost of more cycles per program.
+**Redirected from:** *CISC*
+<hr>
+
+**Complex instruction set computer** (CISC) is a [[instruction set]] where it can perform numerous low-level instructions. CISC makes the program size smaller by reducing the amount of instructions needed to reform a task but comes at a cost of more cycles per program.
 
 ## CPU architectures that use CISC
 - [[x86_64]]
