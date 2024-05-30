@@ -31,7 +31,7 @@ When designing a [[Computer]] architecture there needs to be some design goals:
 - [[sparc]] - [[Sun Microsystems]] [[SPARC Architecture]]
 - [[sparc64]] - [[64-bit]] [[Sun Microsystems]] [[SPARC Architecture]]
 - [[alpha]] - [[Alpha]] Architecture
-- [[hexagon]] - [[Qualcomm]] Hexagon Architecture
+- [[Hexagon]] - [[Qualcomm]] Hexagon Architecture
 - [[m68k]] - [[Motorola]] 680x0 Architecture
 ___
 ## See also

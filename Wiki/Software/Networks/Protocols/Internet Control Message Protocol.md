@@ -8,4 +8,4 @@ aliases:
   - internet control message protocol
   - ICMP
 ---
-ICMP is a network layer protocol used for error reporting and diagnostics.
+**Internet Control Message Protocol** (ICMP) is a network layer protocol used for error reporting and diagnostics.

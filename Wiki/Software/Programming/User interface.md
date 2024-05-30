@@ -11,7 +11,8 @@ A **user interface** (UI) is the interface that the user interacts with. This ca
 
 ## Types of user interfaces
 There are two main types of user interfaces:
-- Command line user interface
+- Command line user interfaceArt
+-Ad
 - Graphical user interface
 
 %% TODO: Create separate pages for different UI's %%

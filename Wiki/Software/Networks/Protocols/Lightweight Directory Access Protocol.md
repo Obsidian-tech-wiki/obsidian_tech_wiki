@@ -16,8 +16,6 @@ Ports:
 
 ## Protocol
 The client will start by connecting to a LDAP server on port 389 (or 636 for SSL). The client will then send a bind request to the server. The server will then respond with a bind response. The client will then send a search request to the server. The server will then respond with a search response. The client will then send an unbind request to the server. The server will then respond with an unbind response. The client will then close the connection to the server.
-
-
 ### Requests
 There are 8 different types of requests that can be sent to the server. These are:
 
